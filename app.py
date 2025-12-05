@@ -179,47 +179,17 @@ if st.session_state.flashcards is not None:
     st.success(f"Generated {len(all_flashcards)} flashcards")
 
     # Statistics
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2 = st.columns(2)
     with col1:
         st.metric("Total Flashcards", len(all_flashcards))
     with col2:
-        topics = len(set(f['topic'] for f in all_flashcards))
-        st.metric("Unique Topics", topics)
-    with col3:
-        difficulties = ['easy', 'medium', 'hard']
-        avg_diff = sum(difficulties.index(f['difficulty'].lower()) for f in all_flashcards) / len(all_flashcards) if all_flashcards else 0
-        st.metric("Avg Difficulty", f"{avg_diff:.1f}")
-    with col4:
-        high_quality = sum(1 for f in all_flashcards if f['difficulty'].lower() == 'hard')
-        st.metric("Advanced Cards", high_quality)
+        sources = len(set(f['source'] for f in all_flashcards))
+        st.metric("Unique Sources", sources)
 
     st.markdown("---")
 
-    # Filter and sort options
-    col1, col2 = st.columns([2, 1])
-    with col1:
-        difficulty_filter = st.multiselect(
-            "Filter by difficulty:",
-            options=sorted(set(f['difficulty'] for f in all_flashcards)),
-            default=[]
-        )
-    with col2:
-        sort_order = st.selectbox(
-            "Sort by:",
-            options=["Difficulty (Easy to Hard)", "Difficulty (Hard to Easy)"],
-            index=0
-        )
-
-    # Apply filters
+    # No filters or sorting needed
     filtered_flashcards = all_flashcards
-    if difficulty_filter:
-        filtered_flashcards = [f for f in all_flashcards if f['difficulty'] in difficulty_filter]
-
-    # Apply sorting
-    if "Hard to Easy" in sort_order:
-        filtered_flashcards = sorted(filtered_flashcards, key=lambda x: difficulties.index(x['difficulty'].lower()), reverse=True)
-    else:
-        filtered_flashcards = sorted(filtered_flashcards, key=lambda x: difficulties.index(x['difficulty'].lower()))
 
     st.markdown(f"Showing {len(filtered_flashcards)} flashcards")
 
@@ -228,11 +198,14 @@ if st.session_state.flashcards is not None:
         with st.container():
             st.markdown(f"""
             <div class="article-card">
-                <div class="article-title">{idx}. {flashcard['question']}</div>
+                <div class="article-title">{idx}. {flashcard['title']}</div>
                 <div class="article-meta">
+                    <strong>Question:</strong> {flashcard['question']} |                    
                     <strong>Answer:</strong> {flashcard['answer']} |
-                    <strong>Difficulty:</strong> {flashcard['difficulty']} |
-                    <strong>Topic:</strong> {flashcard['topic']}
+                    <strong>Context:</strong> {flashcard['context']} |
+                    <strong>Company:</strong> {flashcard['the_company_mainly_concerned_with_the_news_article']} |
+                    <strong>Source:</strong> {flashcard['source']} |
+                    <strong>Published:</strong> {flashcard['published_at']}
                 </div>
             </div>
             """, unsafe_allow_html=True)
@@ -240,13 +213,9 @@ if st.session_state.flashcards is not None:
             # Show article metadata
             with st.expander("Article Details"):
                 st.markdown(f"**Title:** {flashcard['title']}")
-                st.markdown(f"**Source:** {flashcard['source']}")
-                st.markdown(f"**Published:** {flashcard['published_at']}")
                 st.markdown(f"**Summary:** {flashcard['summary']}")
-                st.markdown(f"**Score:** {flashcard['score']}")
                 st.link_button("Read Full Article", flashcard['link'])
 
-            st.markdown("---")
 
     # Export option
     if st.button("Export Flashcards to JSON"):

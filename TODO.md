@@ -1,10 +1,5 @@
-# TODO: Extend app.py to Display Flashcards from flashcards.json
-
-## Steps to Complete:
-- [ ] Modify app.py to save resultsgen.json after running get_all_news
-- [ ] Add import for flashcard_pipeline and run it to generate flashcards.json
-- [ ] Load flashcards.json into session state
-- [ ] Change the display section to show flashcards instead of news articles
-- [ ] Adapt UI components for flashcard display (e.g., question/answer cards)
-- [ ] Update header and styling to reflect flashcards
-- [ ] Test the integration
+- [x] Remove difficulty metric from statistics section (avg difficulty, advanced cards)
+- [x] Remove difficulty filter options
+- [x] Remove difficulty sort options
+- [x] Update flashcard display to show all fields from flashcards.json (title, question, answer, context, the_company_mainly_concerned_with_the_news_article, link, source, summary, published_at)
+- [x] Ensure export functionality includes all fields

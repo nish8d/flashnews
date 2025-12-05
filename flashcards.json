@@ -2,336 +2,443 @@
     {
         "flashcards": [
             {
-                "title": "What is the role of Artificial Intelligence (AI) in modern society?",
-                "question": "How is AI impacting our lives, work, and interactions?",
-                "answer": "Artificial Intelligence (AI) is a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-                "context": "AI is revolutionizing every aspect of life, making significant changes in various industries and daily routines.",
-                "the_company_mainly_concerned_with_the_news_article": "Google",
-                "link": "https://www.devdiscourse.com/article/technology/1653407-artificial-intelligence-revolutionizing-every-aspect-of-life---reuters-next-google-executive-sees-ai-search-as-expansion-for-web",
-                "source": "DEVDISCOURSE",
-                "summary": "Article discussing the impact of AI on various sectors and daily life, with a focus on Google's perspective on AI search as an expansion for the web.",
-                "published_at": "2025-12-04T19:42:07Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "What is causing job displacement fears in the AI sector?",
-                "question": "Why are there concerns about job losses due to AI?",
-                "answer": "The fears stem from a U.S. Federal Reserve report that indicates artificial intelligence has already started replacing entry-level positions and led companies to reduce their hiring plans.",
-                "context": "The rapid advancement of AI technology is leading to the automation of jobs, causing concerns about job displacement.",
-                "the_company_mainly_concerned_with_the_news_article": "U.S. Federal Reserve",
-                "link": "https://www.devdiscourse.com/article/technology/1653479-reuters-next-ais-rise-stirs-excitement-sparks-job-worries",
-                "source": "DEVDISCOURSE",
-                "summary": "The article discusses the fears of job displacement due to AI, backed by a U.S. Federal Reserve report.",
-                "published_at": "2025-12-04T21:52:06Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "What industry is undergoing a digital transformation?",
-                "question": "Global Mining Industry",
-                "answer": "The global mining industry is undergoing a rapid digital transformation.",
-                "context": "This transformation is driven by the dual pressures of the energy transition and increasingly complex extraction environments.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified",
-                "link": "https://oilprice.com/Energy/Energy-General/The-AI-Revolution-Reshaping-The-Global-Mining-Industry.html",
-                "source": "OILPRICE",
-                "summary": "A new market report projects the global Artificial Intelligence (AI) in mining market will nearly quadruple in value over the next seven years, reaching $9.93 billion by 2032.",
-                "published_at": "2025-12-04 21:00:00"
+                "title": "What news is Union Minister Nitin Gadkari promoting regarding vehicles?",
+                "question": "What type of vehicle is Nitin Gadkari using and what fuel does it run on?",
+                "answer": "Toyota's Mirai hydrogen car",
+                "context": "Nitin Gadkari is championing alternative fuels like hydrogen to combat Delhi's air pollution. He revealed his use of Toyota's Mirai hydrogen car.",
+                "the_company_mainly_concerned_with_the_news_article": "Toyota",
+                "link": "https://economictimes.indiatimes.com/news/politics-and-nation/nitin-gadkari-says-using-toyotas-mirai-car-running-on-futuristic-hydrogen-fuel/articleshow/96842310.cms",
+                "source": "THE ECONOMIC TIMES",
+                "summary": "Union Minister Nitin Gadkari is using Toyota's Mirai hydrogen car and promoting the use of alternative fuels like hydrogen to combat Delhi's air pollution.",
+                "published_at": "2025-12-04T08:30:00Z"
             },
             {
-                "title": "What challenges are miners facing?",
-                "question": "Declining ore grades, labor shortages, and an insatiable global appetite for critical minerals.",
-                "answer": "Miners face a 'perfect storm' of challenges: declining ore grades, labor shortages, and an insatiable global appetite for the critical minerals required to power electric...",
-                "context": "This is due to the energy transition.",
+                "title": "What is the government's priority for fuel in India?",
+                "question": "What type of fuels is the Indian government prioritizing and why?",
+                "answer": "Cost-effective, pollution-free indigenous fuels to cut down on massive fossil fuel imports",
+                "context": "The government is prioritising cost-effective, pollution-free indigenous fuels to cut down on massive fossil fuel imports.",
                 "the_company_mainly_concerned_with_the_news_article": "Not specified",
-                "link": "https://oilprice.com/Energy/Energy-General/The-AI-Revolution-Reshaping-The-Global-Mining-Industry.html",
-                "source": "OILPRICE",
-                "summary": "A new market report projects the global Artificial Intelligence (AI) in mining market will nearly quadruple in value over the next seven years, reaching $9.93 billion by 2032.",
-                "published_at": "2025-12-04 21:00:00"
+                "link": "https://economictimes.indiatimes.com/news/politics-and-nation/nitin-gadkari-says-using-toyotas-mirai-car-running-on-futuristic-hydrogen-fuel/articleshow/96842310.cms",
+                "source": "THE ECONOMIC TIMES",
+                "summary": "The Indian government is prioritizing cost-effective, pollution-free indigenous fuels to reduce massive fossil fuel imports.",
+                "published_at": "2025-12-04T08:30:00Z"
+            },
+            {
+                "title": "What are the goals of this shift in fuel policy in India?",
+                "question": "What are the objectives of the government's shift towards indigenous fuels?",
+                "answer": "Make India an energy exporter and boost its automotive industry to global leadership",
+                "context": "This shift aims to make India an energy exporter and boost its automotive industry to global leadership.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified",
+                "link": "https://economictimes.indiatimes.com/news/politics-and-nation/nitin-gadkari-says-using-toyotas-mirai-car-running-on-futuristic-hydrogen-fuel/articleshow/96842310.cms",
+                "source": "THE ECONOMIC TIMES",
+                "summary": "The objectives of the government's shift towards indigenous fuels are to make India an energy exporter and boost its automotive industry to global leadership.",
+                "published_at": "2025-12-04T08:30:00Z"
             }
         ]
     },
     {
         "flashcards": [
             {
-                "title": "AI and Mineral Deposit Prediction",
-                "question": "What is the role of AI in mineral deposit prediction?",
-                "answer": "AI is used for exploration and extraction of mineral deposits, leading the way in the race to find resources needed to support the world's growing population and energy transition.",
-                "context": "The article discusses how AI technology is being utilized to predict and extract mineral deposits, playing a crucial role in meeting the demands of a growing population and the energy transition.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified",
-                "link": "https://www.thetribune.com/ai-accurately-predicts-location-of-mineral-deposits/",
+                "title": "Continuation of 20% blending for now",
+                "question": "Who are the parties involved in agreeing on the continuation of 20% blending?",
+                "answer": "Auto industry, government, and other stakeholders",
+                "context": "The auto industry, government, and various stakeholders have agreed to continue the use of a 20% ethanol blend for now.",
+                "the_company_mainly_concerned_with_the_news_article": "Toyota Kirloskar Motor",
+                "link": "https://www.thehindubusinessline.com/auto/news/auto-industry-ethanol-makers-agree-on-continuation-of-20-blending-for-now/article66897341.ece",
+                "source": "THEHINDUBUSINESSLINE",
+                "summary": "Auto industry, the government, and other stakeholders believe that flex fuel vehicles are the way forward: Vikram Gulati, country head and Executive Vice President (corporate affairs), Toyota Kirloskar Motor",
+                "published_at": "2025-12-04 13:02:05"
+            },
+            {
+                "title": "Flex fuel vehicles",
+                "question": "Who believes that flex fuel vehicles are the way forward?",
+                "answer": "Vikram Gulati, country head and Executive Vice President (corporate affairs), Toyota Kirloskar Motor",
+                "context": "Vikram Gulati, country head and Executive Vice President (corporate affairs) of Toyota Kirloskar Motor, believes that flex fuel vehicles are the way forward.",
+                "the_company_mainly_concerned_with_the_news_article": "Toyota Kirloskar Motor",
+                "link": "https://www.thehindubusinessline.com/auto/news/auto-industry-ethanol-makers-agree-on-continuation-of-20-blending-for-now/article66897341.ece",
+                "source": "THEHINDUBUSINESSLINE",
+                "summary": "Auto industry, the government, and other stakeholders believe that flex fuel vehicles are the way forward: Vikram Gulati, country head and Executive Vice President (corporate affairs), Toyota Kirloskar Motor",
+                "published_at": "2025-12-04 13:02:05"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What happened to European automaker shares on December 4, 2025?",
+                "question": "Why did European automaker shares rise sharply on December 4, 2025?",
+                "answer": "European automaker shares rose sharply due to President Donald Trump moving to roll back U.S. fuel economy limits established under Joe Biden.",
+                "context": "The administration framed the proposal as a way to lower consumer costs by making it easier for companies to sell gasoline-powered vehicles.",
+                "the_company_mainly_concerned_with_the_news_article": "Porsche, Mercedes-Benz, Volvo Car, Renault, and Stellantis",
+                "link": "https://oilprice.com/Energy/Energy-General/Automaker-Stocks-Jump-as-U-S-Scraps-Biden-Era-Fuel-Standards.html",
+                "source": "OILPRICE",
+                "summary": "European automaker shares rose sharply on December 4, 2025 after President Donald Trump moved to roll back U.S. fuel economy limits established under Joe Biden.",
+                "published_at": "2025-12-04 19:00:00"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "India's Aviation Sector Biofuel Blend Target",
+                "question": "What is India's target for biofuel blend in its aviation sector by 2030?",
+                "answer": "At least 5%",
+                "context": "The government announced that it aims to use at least 5% blended biofuel in the aviation sector by 2030.",
+                "the_company_mainly_concerned_with_the_news_article": "Government of India",
+                "link": "https://www.ndtv.com/business/india-targets-5-biofuel-blend-by-2030-on-international-flights-to-cut-emissions-3146879",
+                "source": "NDTV PROFIT",
+                "summary": "India will use at least 5% blended biofuel in its aviation sector by 2030 to meet international carbon emissions standards.",
+                "published_at": "2025-12-01T12:12:24Z"
+            },
+            {
+                "title": "SAF - Sustainable Aviation Fuel",
+                "question": "What is SAF and why has it gained prominence in the aviation industry?",
+                "answer": "Sustainable aviation fuel (SAF) is a less polluting source of energy that has been gaining prominence as the industry attempts to transition towards cleaner energy sources.",
+                "context": "Sustainable aviation fuel or SAF has been slowly gaining prominence as the industry attempts to make transitions towards less polluting sources of energy.",
+                "the_company_mainly_concerned_with_the_news_article": "Aviation Industry",
+                "link": "https://www.ndtv.com/business/india-targets-5-biofuel-blend-by-2030-on-international-flights-to-cut-emissions-3146879",
+                "source": "NDTV PROFIT",
+                "summary": "Sustainable aviation fuel (SAF) is a less polluting source of energy that has been gaining prominence as the industry attempts to transition towards cleaner energy sources.",
+                "published_at": "2025-12-01T12:12:24Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "CAFE-III Norms and Maruti Suzuki's Stance",
+                "question": "What is the stance of Maruti Suzuki regarding CAFE-III norms?",
+                "answer": "Maruti Suzuki supports concessions for small cars in CAFE-III norms.",
+                "context": "Maruti Suzuki's Senior Executive Officer Rahul Bharti has highlighted that the company supports concessions for small cars in the upcoming CAFE-III (Corporate Average Fuel Efficiency) norms. This is to improve the fuel efficiency of big cars, according to Maruti Suzuki.",
+                "the_company_mainly_concerned_with_the_news_article": "Maruti Suzuki",
+                "link": "https://www.devdiscourse.com/article/business/1634507-fuel-efficiency-divide-maruti-suzuki-advocates-for-small-car-concessions-in-café-iii",
+                "source": "DEVDISCOURSE",
+                "summary": "Maruti Suzuki supports concessions for small cars in CAFE-III norms, while Tata Motors opposes it. The debate underscores differing industry views on fuel efficiency regulations and safety standards.",
+                "published_at": "2025-12-01T14:18:23Z"
+            },
+            {
+                "title": "CAFE-III Norms and Tata Motors' Stance",
+                "question": "What is the stance of Tata Motors regarding CAFE-III norms?",
+                "answer": "Tata Motors opposes concessions for small cars in CAFE-III norms.",
+                "context": "Maruti Suzuki's Senior Executive Officer Rahul Bharti has highlighted that while Maruti Suzuki supports concessions for small cars in the upcoming CAFE-III (Corporate Average Fuel Efficiency) norms, Tata Motors opposes it.",
+                "the_company_mainly_concerned_with_the_news_article": "Tata Motors",
+                "link": "https://www.devdiscourse.com/article/business/1634507-fuel-efficiency-divide-maruti-suzuki-advocates-for-small-car-concessions-in-café-iii",
+                "source": "DEVDISCOURSE",
+                "summary": "Maruti Suzuki supports concessions for small cars in CAFE-III norms, while Tata Motors opposes it. The debate underscores differing industry views on fuel efficiency regulations and safety standards.",
+                "published_at": "2025-12-01T14:18:23Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "COP30 Climate Summit Outcome",
+                "question": "What was the final outcome of the COP30 climate summit in Brazil last month?",
+                "answer": "The final outcome was 'disappointing'",
+                "context": "Despite the disappointing outcome, UN Secretary-General Antonio Guterres stated that it showed multilateralism still works.",
+                "the_company_mainly_concerned_with_the_news_article": "Reuters",
+                "link": "https://www.devdiscourse.com/article/general/world/1834579-reuters-next-multilateralism-works-even-as-us-fossil-fuel-industry-oppose-climate-action-un-chief-says",
+                "source": "DEVDISCOURSE",
+                "summary": "UN Secretary-General Antonio Guterres stated that the final outcome of COP30 climate summit in Brazil was disappointing, but it showed multilateralism still works amid US and fossil fuel industry opposition.",
+                "published_at": "2025-12-03T17:00:24Z"
+            },
+            {
+                "title": "US Participation in COP30",
+                "question": "Did the United States participate in the COP30 climate summit?",
+                "answer": "No, the US did not participate.",
+                "context": "The UN Secretary-General stated that multilateralism still works despite the absence of the United States' participation.",
+                "the_company_mainly_concerned_with_the_news_article": "Reuters",
+                "link": "https://www.devdiscourse.com/article/general/world/1834579-reuters-next-multilateralism-works-even-as-us-fossil-fuel-industry-oppose-climate-action-un-chief-says",
+                "source": "DEVDISCOURSE",
+                "summary": "The UN Secretary-General stated that multilateralism still works despite the absence of the United States' participation in COP30 climate summit.",
+                "published_at": "2025-12-03T17:00:24Z"
+            },
+            {
+                "title": "Geopolitical Tensions",
+                "question": "What geopolitical tensions were present during COP30 climate summit?",
+                "answer": "Growing geopolitical tensions were present.",
+                "context": "The UN Secretary-General stated that multilateralism still works amid growing geopolitical tensions.",
+                "the_company_mainly_concerned_with_the_news_article": "Reuters",
+                "link": "https://www.devdiscourse.com/article/general/world/1834579-reuters-next-multilateralism-works-even-as-us-fossil-fuel-industry-oppose-climate-action-un-chief-says",
+                "source": "DEVDISCOURSE",
+                "summary": "The UN Secretary-General stated that multilateralism still works amid growing geopolitical tensions during COP30 climate summit.",
+                "published_at": "2025-12-03T17:00:24Z"
+            },
+            {
+                "title": "UN Secretary-General's Statement",
+                "question": "What did UN Secretary-General Antonio Guterres say about multilateralism at the Reuters Next conference?",
+                "answer": "He stated that multilateralism still works even as US and fossil fuel industry oppose climate action.",
+                "context": "The UN Secretary-General made this statement during the Reuters Next conference in New York on Wednesday.",
+                "the_company_mainly_concerned_with_the_news_article": "Reuters",
+                "link": "https://www.devdiscourse.com/article/general/world/1834579-reuters-next-multilateralism-works-even-as-us-fossil-fuel-industry-oppose-climate-action-un-chief-says",
+                "source": "DEVDISCOURSE",
+                "summary": "UN Secretary-General Antonio Guterres stated that multilateralism still works even as US and fossil fuel industry oppose climate action during the Reuters Next conference.",
+                "published_at": "2025-12-03T17:00:24Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "Alfa Laval–SCCI Forum",
+                "question": "What event brought together industry leaders to discuss energy efficiency and Net Zero goals in India?",
+                "answer": "Alfa Laval–SCCI forum",
+                "context": "Industry leaders gather at the Alfa Laval–SCCI forum to advance energy efficiency and Net Zero initiatives in India.",
+                "the_company_mainly_concerned_with_the_news_article": "Alfa Laval",
+                "link": "https://www.businessline.com/news/biz-tech/industry-leaders-unite-at-alfa-laval-scci-forum-to-push-energy-efficiency-and-net-zero-goals/article36714082.ece",
+                "source": "BUSINESSLINE",
+                "summary": "Industry leaders gather at the Alfa Laval–SCCI forum to advance energy efficiency and Net Zero initiatives in India.",
+                "published_at": "2025-12-04T10:02:30Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What is the impact of Serbia’s oil refinery shutdown?",
+                "question": "How long could the fallout from the shutdown last?",
+                "answer": "Experts warn that the fallout could last years.",
+                "context": "The shutdown of Serbia’s only oil refinery, operated by the Petroleum Industry of Serbia (NIS), could have significant and long-lasting consequences. Thousands of jobs, the state budget, and further sanctions are at risk due to this shutdown.",
+                "the_company_mainly_concerned_with_the_news_article": "Petroleum Industry of Serbia (NIS)",
+                "link": "https://www.digitaljournal.com/business/oil-refinery-shutdown-could-cost-serbia-for-years-experts-warn",
+                "source": "DIGITAL JOURNAL",
+                "summary": "The shutdown of Serbia’s only oil refinery could have long-lasting consequences, putting thousands of jobs and the state budget at risk. Experts also warn about potential further sanctions.",
+                "published_at": "2025-12-04T10:02:22Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "US 'Cancer Alley' and Health Problems",
+                "question": "What is the issue faced by residents in a dense cluster of industry on the banks of the Mississippi River?",
+                "answer": "Residents claim that this area, known as 'Cancer Alley', is causing serious health problems.",
+                "context": "The residents believe that the industries in this area are responsible for various health issues. However, no concrete evidence has been provided in the article.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified in the article as it focuses on the community and their concerns rather than a specific company.",
+                "link": "https://www.dw.com/en/us-cancer-alley-residents-stand-up-to-petrochemical-giants/a-64182357",
+                "source": "DW (ENGLISH)",
+                "summary": "Residents in a densely industrial area along the Mississippi River, known as 'Cancer Alley', are experiencing health problems. They are now fighting for cleaner communities as plastic production surges globally.",
+                "published_at": "2025-12-04T10:09:00Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What action did President Trump take regarding fuel standards?",
+                "question": "What action did President Trump take regarding fuel standards?",
+                "answer": "President Trump signed an executive order reversing Biden’s stringent fuel efficiency rules.",
+                "context": "The new rule lowers the target from ~50 mpg by 2031 to ~34.5 mpg.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (government action)",
+                "link": "https://www.naturalnews.com/2025-12-04-trump-ends-biden-fuel-standards.html",
+                "source": "NATURALNEWS.COM",
+                "summary": "President Trump signed an executive order to reverse Biden’s fuel efficiency rules, aiming to save families $1,000 per vehicle and $109 billion collectively over five years.",
+                "published_at": "2025-12-04T06:00:00Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What country is building a submarine as part of its efforts to expand its homemade defense industry?",
+                "question": "Which country is developing a submarine for its domestic defense industry?",
+                "answer": "Turkey",
+                "context": "The Turkish Defense Industries (SSB) has announced that it will build a new submarine, marking an expansion of Turkey's homemade defense industry.",
+                "the_company_mainly_concerned_with_the_news_article": "Turkish Defense Industries (SSB)",
+                "link": "https://biztoc.com/technology/2025-12-04-turkey-building-a-sub-as-it-ramps-up-homemade-defense-industry.html",
+                "source": "BIZTOC.COM",
+                "summary": "Turkey is developing a new submarine as part of its efforts to expand its homemade defense industry.",
+                "published_at": "2025-12-04T09:16:41Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "India's Diesel Consumption in November 2025",
+                "question": "What was the level of India's diesel consumption during November 2025?",
+                "answer": "Second highest on record",
+                "context": "GST rate cuts and pent up demand coupled with the festival and marriage season fuelled an expansion in output and new orders boosting freight and logistics activity.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (National level)",
+                "link": "https://www.businessline.com/economy-policy/news/pent-up-demand-gst-rate-cut-helps-diesel-consumption-hit-second-highest-level-in-november-20251204213638m.html",
+                "source": "BUSINESSLINE",
+                "summary": "India's diesel consumption rose to its second highest on record during November 2025 due to GST rate cuts, pent up demand, and the festival season.",
+                "published_at": "2025-12-04T06:31:44Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "Who raised $4.5 million for US manufacturing with AI?",
+                "question": "Who is the founder of RMFG?",
+                "answer": "Kenneth Cassel",
+                "context": "RMFG has raised $4.5 million in pre-seed funding to bolster US manufacturing with AI. Kenneth Cassel, its 32-year-old founder, taught himself to code while working in gas station maintenance.",
+                "the_company_mainly_concerned_with_the_news_article": "RMFG",
+                "link": "https://biztoc.com/rmfg-raises-4-5-million-to-help-fuel-us-manufacturing-renaissance-with-ai/",
+                "source": "BIZTOC.COM",
+                "summary": "RMFG, a company founded by Kenneth Cassel, has raised $4.5 million to support US manufacturing with AI.",
+                "published_at": "2025-12-04T10:12:26Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "Why is the revival of the fossil fuel industry a concern for global climate action?",
+                "question": "What is the issue with the revival of the fossil fuel industry in relation to global climate action?",
+                "answer": "The revival of the fossil fuel industry, as committed by the Trump-led US, is a concern because it contributes significantly to greenhouse gas emissions, which exacerbate climate change.",
+                "context": "The article discusses how the Trump administration's commitment to the fossil fuel industry contradicts global efforts to combat climate change. The revival of this industry would lead to increased carbon emissions, worsening the situation.",
+                "the_company_mainly_concerned_with_the_news_article": "United States Government (Trump Administration)",
+                "link": "https://www.tribuneindia.com/news/dilution-of-goals-ails-global-climate-action-392480",
                 "source": "THE TRIBUNE",
-                "summary": "The race to find mineral deposits needed to support the world's growing population and energy transition is on, and those using artificial intelligence technology for exploration and extraction are already leading the way.",
-                "published_at": "2025-12-04T17:30:12Z"
+                "summary": "The Trump-led US is committed to the revival of the fossil fuel industry and calls climate change a hoax.",
+                "published_at": "2025-12-02T20:46:10Z"
             }
         ]
     },
     {
         "flashcards": [
             {
-                "title": "What is the focus of leading AI developers?",
-                "question": "What are leading AI developers mainly focused on building?",
-                "answer": "AI models that mimic human reasoning.",
-                "context": "These advanced systems are designed to replicate how humans reason, but they come with a significant energy cost.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified (applies to leading AI developers in general)",
-                "link": "https://www.livemint.com/technology/tech-news/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff-11670238549367.html",
-                "source": "LIVEMINT",
-                "summary": "Article discusses the energy consumption of AI reasoning models, which are being developed by leading AI developers.",
-                "published_at": "2025-12-04T18:25:56Z"
+                "title": "What is the new mandate by Maharashtra Government for energy projects?",
+                "question": "What is the new requirement in energy projects in Maharashtra?",
+                "answer": "Blending of bamboo biomass is mandatory.",
+                "context": "The Maharashtra government has made it compulsory to blend bamboo biomass in all eligible energy-generation projects in the state, under the newly-approved Maharashtra Bamboo Industry Policy 2025.",
+                "the_company_mainly_concerned_with_the_news_article": "Government of Maharashtra",
+                "link": "https://www.thehitavada.com/en/news/Mah-makes-bamboo-biomass-blending-mandatory-in-energy-projects-3016459",
+                "source": "THE HITAVADA",
+                "summary": "The Maharashtra government has made blending of bamboo biomass mandatory in energy projects and allocated Rs 50 crore for bamboo-based entrepreneurship.",
+                "published_at": "2025-12-03T00:00:00Z"
             }
         ]
     },
     {
         "flashcards": [
             {
-                "title": "New Mistral 3 Large AI Models",
-                "question": "What is the title of the news article?",
-                "answer": "New Mistral 3 Large AI Models",
-                "context": "This article discusses a new family of open-source AI models called Mistral 3.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified in the article",
-                "link": "https://www.geeky-gadgets.com/new-mistral-3-large-ai-models/",
-                "source": "GEEKY GADGETS",
-                "summary": "The article introduces Mistral 3, a new family of open-source AI models that promise to redefine how AI is used and made accessible to everyone.",
-                "published_at": "2025-12-04T09:42:28Z"
+                "title": "Powerica IPO Approval",
+                "question": "Which company has received SEBI approval for an IPO worth ₹1,400 crore?",
+                "answer": "Powerica, a Mumbai-based diesel generator company.",
+                "context": "The company is known for its strong manufacturing, distribution, and diversified industry presence.",
+                "the_company_mainly_concerned_with_the_news_article": "Powerica",
+                "link": "https://www.newsx.com/business/mumbais-powerica-ipo-set-to-energise-markets-what-investors-should-know-before-the-launch-4086391.html",
+                "source": "NEWSX",
+                "summary": "Powerica, a Mumbai-based diesel generator company, has received SEBI approval for an IPO worth ₹1,400 crore.",
+                "published_at": "2025-12-02T04:18:21Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What is the news article about?",
+                "question": "What is the main topic of the article?",
+                "answer": "The news article discusses the surging electricity demand from AI data centers and its impact on the U.S. power grid, as well as the challenges faced by the nation's nuclear energy ambitions.",
+                "context": "The article highlights that the increasing demand for electricity by AI data centers is causing issues with the reliability of the U.S. power grid. It also mentions that the country's nuclear energy aspirations are facing severe fuel supply chain vulnerabilities, including a dependence on Russian uranium.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (The article discusses a general trend in the tech industry and the U.S. energy sector)",
+                "link": "https://www.naturalnews.com/2025-12-04-ai-power-crunch-grid-realities-tech-ambition.html",
+                "source": "NATURALNEWS.COM",
+                "summary": "The article discusses the strain on the U.S. power grid due to increased electricity demand from AI data centers and the challenges faced by the country's nuclear energy ambitions, including dependence on Russian uranium.",
+                "published_at": "2025-12-04T06:00:00Z"
             },
             {
-                "title": "Open Source AI Models",
-                "question": "What makes the Mistral 3 family of AI models unique?",
-                "answer": "The Mistral 3 family of AI models is open-source, making it accessible to everyone.",
-                "context": "The article discusses how the Mistral 3 family of AI models is an innovative leap in open-source technology.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified in the article",
-                "link": "https://www.geeky-gadgets.com/new-mistral-3-large-ai-models/",
-                "source": "GEEKY GADGETS",
-                "summary": "The Mistral 3 family of AI models is unique because it is open-source, making it accessible to everyone.",
-                "published_at": "2025-12-04T09:42:28Z"
+                "title": "What is the issue with the U.S. power grid?",
+                "question": "How does the increasing electricity demand from AI data centers affect the U.S. power grid?",
+                "answer": "The increasing electricity demand from AI data centers is causing issues with the reliability of the U.S. power grid.",
+                "context": "The article highlights that the surge in electricity demand from AI data centers is colliding with a strained U.S. power grid, risking reliability.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (The article discusses a general trend in the tech industry and the U.S. energy sector)",
+                "link": "https://www.naturalnews.com/2025-12-04-ai-power-crunch-grid-realities-tech-ambition.html",
+                "source": "NATURALNEWS.COM",
+                "summary": "The article discusses the strain on the U.S. power grid due to increased electricity demand from AI data centers and the challenges faced by the country's nuclear energy ambitions, including dependence on Russian uranium.",
+                "published_at": "2025-12-04T06:00:00Z"
             },
             {
-                "title": "Multilingual and Multimodal AI",
-                "question": "What capabilities does the Mistral 3 family of AI models have?",
-                "answer": "The Mistral 3 family of AI models is capable of coding, multilingual, and multimodal AI with sparse experts.",
-                "context": "The article mentions that the Mistral 3 family of AI models has capabilities in coding, multilingual, and multimodal AI with sparse experts.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified in the article",
-                "link": "https://www.geeky-gadgets.com/new-mistral-3-large-ai-models/",
-                "source": "GEEKY GADGETS",
-                "summary": "The Mistral 3 family of AI models has capabilities in coding, multilingual, and multimodal AI with sparse experts.",
-                "published_at": "2025-12-04T09:42:28Z"
+                "title": "What are the challenges facing U.S. nuclear energy ambitions?",
+                "question": "What are the challenges faced by the U.S. in its nuclear energy aspirations?",
+                "answer": "The U.S. faces severe fuel supply chain vulnerabilities, including dependence on Russian uranium.",
+                "context": "The article mentions that the country's nuclear energy ambitions face severe fuel supply chain vulnerabilities, including a dependence on Russian uranium.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (The article discusses a general trend in the tech industry and the U.S. energy sector)",
+                "link": "https://www.naturalnews.com/2025-12-04-ai-power-crunch-grid-realities-tech-ambition.html",
+                "source": "NATURALNEWS.COM",
+                "summary": "The article discusses the strain on the U.S. power grid due to increased electricity demand from AI data centers and the challenges faced by the country's nuclear energy ambitions, including dependence on Russian uranium.",
+                "published_at": "2025-12-04T06:00:00Z"
             }
         ]
     },
     {
         "flashcards": [
             {
-                "title": "OpenAI's Confession System",
-                "question": "What is OpenAI working on regarding AI models?",
-                "answer": "They are developing a framework to train AI models to acknowledge undesirable behavior, which they call a 'confession'.",
-                "context": "The team at OpenAI aims to teach AI models to admit when they've engaged in bad behaviors. This approach is called a confession system.",
-                "the_company_mainly_concerned_with_the_news_article": "OpenAI",
-                "link": "https://www.madshrimps.be/openais-new-confession-system-teaches-models-to-be-honest-about-bad-behaviors/",
-                "source": "MADSHRIMPS.BE",
-                "summary": "OpenAI is working on a framework to train AI models to admit when they've engaged in undesirable behavior, an approach called a confession.",
-                "published_at": "2025-12-04T09:11:29Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "SAP CEO's Call for European AI Unity",
-                "question": "What did SAP CEO, Christian Klein, urge Europe to do regarding AI?",
-                "answer": "He urged Europe to unite and ease AI rules to stay competitive.",
-                "context": "Klein's comments come as Brussels revises the rollout of the EU's landmark Artificial Intelligence Act. The European Commission proposed a 'Digital Omnibus' to streamline tech laws and delay enforcement of the Act's strictest high-risk rules to December 2027 from August 2026.",
-                "the_company_mainly_concerned_with_the_news_article": "SAP",
-                "link": "https://www.devdiscourse.com/article/business/1534891-reuters-next-sap-ceo-urges-europe-to-unite-and-ease-ai-rules-to-stay-competitive",
-                "source": "DEVDISCOURSE",
-                "summary": "SAP CEO, Christian Klein, called for Europe to unite and ease AI rules to maintain competitiveness. This comes as the European Commission is revising the rollout of the EU's Artificial Intelligence Act.",
-                "published_at": "2025-12-04T21:32:28Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "Which AI tool was the most-searched in India according to Google's Year in Search 2025?",
-                "question": "What is the name of the AI tool that gained the highest search volume in India as per Google's Year in Search 2025?",
-                "answer": "Google Gemini",
-                "context": "India's growing fascination with artificial intelligence was highlighted by Google's Year in Search 2025, which revealed that the AI tool named Google Gemini was the most-searched.",
-                "the_company_mainly_concerned_with_the_news_article": "Google",
-                "link": "https://www.indiatvnews.com/tech/google-gemini-beats-chatgpt-in-indias-ai-search-chart-along-with-grok-and-perplexity-1873465",
-                "source": "INDIA TV NEWS",
-                "summary": "Google's Year in Search 2025 shows that Google Gemini outperformed ChatGPT and other AI tools like Grok and Perplexity in India.",
-                "published_at": "2025-12-04T18:19:06Z"
+                "title": "Vortex Control Technologies and Norwegian Collaboration",
+                "question": "What is the news article about?",
+                "answer": "The news article is about Vortex Control Technologies and Norwegian signing an agreement to equip Norwegian's entire Boeing 737-800 fleet with VCT's fuel-saving Finlet modification.",
+                "context": "Vortex Control Technologies has developed a patented array of small aerodynamic fins called Finlets. These fins are installed on the aft fuselage of aircraft to optimize airflow, reduce drag, and improve overall aerodynamic performance. The benefits include enhanced fuel efficiency, extended range, and reduced carbon emissions.",
+                "the_company_mainly_concerned_with_the_news_article": "Vortex Control Technologies",
+                "link": "https://www.prnewswire.com/news-releases/vortex-control-technologies-helps-norwegian-advance-sustainability-goals-with-fleetwide-adoption-of-vct-finlets-301214689.html",
+                "source": "EN_PRNASISA",
+                "summary": "Vortex Control Technologies and Norwegian have signed an agreement to equip Norwegian's entire Boeing 737-800 fleet with VCT's fuel-saving Finlet modification, reinforcing its commitment to operational efficiency and environmental responsibility.",
+                "published_at": "2025-12-04 10:00:00"
             },
             {
-                "title": "Which two other AI tools outperformed ChatGPT in India as per Google's Year in Search 2025?",
-                "question": "Which AI tools, apart from Google Gemini, gained more buzz and engagement than ChatGPT in India according to Google's Year in Search 2025?",
-                "answer": "Grok and Perplexity",
-                "context": "Google's Year in Search 2025 revealed that not only did Google Gemini outperform ChatGPT, but also two other AI tools, Grok and Perplexity, gained more buzz and engagement.",
-                "the_company_mainly_concerned_with_the_news_article": "Google",
-                "link": "https://www.indiatvnews.com/tech/google-gemini-beats-chatgpt-in-indias-ai-search-chart-along-with-grok-and-perplexity-1873465",
-                "source": "INDIA TV NEWS",
-                "summary": "Google's Year in Search 2025 shows that apart from Google Gemini, AI tools Grok and Perplexity outperformed ChatGPT in India.",
-                "published_at": "2025-12-04T18:19:06Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "Kazakhstan's Digital Transformation Strategy",
-                "question": "What is Kazakhstan's goal regarding digitalization and artificial intelligence?",
-                "answer": "Kazakhstan aims to leverage digitalization and artificial intelligence as engines of inclusive development, strengthening the economy, protecting citizens, and enhancing the country’s standing in a digital world.",
-                "context": "The Times of India reports that Kazakhstan is seeking to transform its geographic advantage into a powerful economic asset by focusing on digitalization and artificial intelligence. This strategy aims to make these technologies integral parts of their development process.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified (government initiative)",
-                "link": "https://timesofindia.indiatimes.com/business/international-business/kazakhstan-transforming-its-geographic-advantage-into-a-powerful-economic-asset/articleshow/96832471.cms",
-                "source": "THE TIMES OF INDIA",
-                "summary": "Kazakhstan is focusing on digitalization and artificial intelligence to drive economic growth, protect citizens, and enhance its global standing.",
-                "published_at": "2025-12-04T09:41:34Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "China's AI Funding Gap",
-                "question": "What is the concern about China's ambitions in artificial intelligence?",
-                "answer": "There is a potential funding gap in the sector.",
-                "context": "Former Google CEO Eric Schmidt has expressed doubts about China's ability to fund its designs on AI supremacy due to a possible shortage of funds in the sector.",
-                "the_company_mainly_concerned_with_the_news_article": "Yahoo Entertainment",
-                "link": "https://entertainment.yahoo.com/can-china-fund-its-ai-ambitions-ex-google-ceo-eric-schmidt-casts-doubt-230648175.html",
-                "source": "YAHOO ENTERTAINMENT",
-                "summary": "Former Google CEO Eric Schmidt has raised concerns about China's ability to fund its ambitions in artificial intelligence due to a potential funding gap.",
-                "published_at": "2025-12-04T09:30:00Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "Meta EU Antitrust Investigation",
-                "question": "What is the EU antitrust investigation that Meta Platforms is facing?",
-                "answer": "The EU antitrust investigation is regarding Meta's rollout of artificial intelligence features in its WhatsApp messenger that would block rivals.",
-                "context": "Meta Platforms, the parent company of Facebook and Instagram, is under investigation by the European Union for implementing AI features on WhatsApp that could potentially exclude competitors.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta Platforms",
-                "link": "https://www.thetribune.com/2025/12/04/meta-faces-eu-probe-over-plan-to-block-ai-rivals-on-whatsapp/",
-                "source": "THE TRIBUNE",
-                "summary": "Meta Platforms is under investigation by the EU for implementing AI features on WhatsApp that could potentially exclude competitors.",
-                "published_at": "2025-12-04T21:22:22Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "What is the plan announced by the T'gana government?",
-                "question": "What is the plan announced by the T'gana government?",
-                "answer": "The plan aims to develop Hyderabad as a 'Quantum City'.",
-                "context": "The strategy, he said, aims to strengthen research infrastructure, cybersecurity systems, life sciences innovation, and human capital development, while promoting cutting-edge research in quantum computing, quantum communication, sensing, and cryptographic security.",
-                "the_company_mainly_concerned_with_the_news_article": "T'gana Government",
-                "link": "https://www.devdiscourse.com/article/general/1834507-tgana-govt-unveils-plan-to-develop-hyderabad-as-quantum-city",
-                "source": "DEVDISCOURSE",
-                "summary": "The T'gana government has announced a plan to develop Hyderabad as a 'Quantum City'. The strategy focuses on strengthening research infrastructure, cybersecurity systems, life sciences innovation, and human capital development, while promoting cutting-edge research in quantum computing, quantum communication, sensing, and cryptographic security.",
-                "published_at": "2025-12-04T16:59:12Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "Meta's Budget Cuts for Metaverse Division",
-                "question": "What is Mark Zuckerberg planning to do with the budget for Meta's metaverse division?",
-                "answer": "Mark Zuckerberg is planning significant resource cuts, potentially as high as 30%.",
-                "context": "The CEO of Meta (formerly Facebook) is reportedly planning to cut the budget for its metaverse division by a substantial amount. This decision comes as the company shifts its focus towards artificial intelligence development.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta",
-                "link": "https://timesofindia.indiatimes.com/business/india-business/Zuckerberg-to-cut-budget-by-billions-for-project-FB-owner-changed-its-name/articleshow/96832401.cms",
-                "source": "TOI",
-                "summary": "Meta CEO Mark Zuckerberg is planning to cut the budget for its metaverse division by a substantial amount, potentially leading to layoffs early next year.",
-                "published_at": "2025-12-04 18:06:47"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "Why did Meta's shares rise sharply on December 4, 2025?",
-                "question": "What caused the increase in Meta's share price on December 4, 2025?",
-                "answer": "The rise was due to a report that Meta (Facebook's parent company) is significantly cutting back on virtual reality investments.",
-                "context": "In 2021, CEO and founder Mark Zuckerberg bet heavily on virtual reality’s promise. However, recent reports suggest a shift in focus towards artificial intelligence.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta (Facebook's parent company)",
-                "link": "https://www.startupnews.com/2025/12/04/meta-cuts-vr-spending/",
-                "source": "STARTUPNEWS",
-                "summary": "Shares in Meta rose sharply on December 4, 2025 following a report that the company is significantly reducing investments in virtual reality as it pivots towards artificial intelligence.",
-                "published_at": "2025-12-04 18:12:02"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "Why did US stocks end near flat on December 4, 2025?",
-                "question": "What factors influenced the performance of US stocks on this date?",
-                "answer": "The performance was supported by hopes for the Federal Reserve's actions but was dragged down by Amazon.",
-                "context": "A delayed report from the Commerce Department showed factory orders rose 0.2%, short of the 0.5% estimate, after a downwardly revised 1.3% increase in August as tariffs hemmed in manufacturers. Dow component Salesforce climbed after the company raised its fiscal 2026 revenue and adjusted profit forecasts, anticipating growth in its artificial intelligence agent platform due to strong enterprise demand.",
-                "the_company_mainly_concerned_with_the_news_article": "Amazon",
-                "link": "https://www.devdiscourse.com/article/US-STOCKS-Indexes-end-near-flat-supported-by-Fed-hopes-but-dragged-by-Amazon/d-1532487",
-                "source": "DEVDISCOURSE",
-                "summary": "A report on US stocks performance on December 4, 2025, showing a near flat close due to mixed factors including hopes for the Federal Reserve and negative impact from Amazon.",
-                "published_at": "2025-12-04T21:03:07Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "What report reveals the current state of fraud and financial crime in the United States?",
-                "question": "What report is being referred to?",
-                "answer": "'2025 State of Fraud and Financial Crime in the United States' report",
-                "context": "The report was commissioned by Block and published by PYMNTS Intelligence.",
-                "the_company_mainly_concerned_with_the_news_article": "Block",
-                "link": "https://www.pymnts.com/",
-                "source": "PYMNTS.COM",
-                "summary": "The report highlights the increasing sophistication and dynamic nature of fraud and financial crimes in the United States.",
-                "published_at": "2025-12-04T09:00:53Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "U.S. Data Center Power Demand Projections",
-                "question": "What is the projected power demand for U.S. data centers by 2035, according to BloombergNEF?",
-                "answer": "106 GW",
-                "context": "BloombergNEF's report suggests that U.S. data center power demand could reach 106 GW in 2035.",
-                "the_company_mainly_concerned_with_the_news_article": "BloombergNEF",
-                "link": "https://oilprice.com/Energy/Energy-General/U-S-Data-Center-Demand-Could-Hit-106-GW-by-2035.html",
-                "source": "OILPRICE",
-                "summary": "The article discusses a report by BloombergNEF predicting that U.S. data center power demand could reach 106 GW in 2035, which is one of the more aggressive load growth estimates to date.",
-                "published_at": "2025-12-04 17:00:00"
+                "title": "Finlets Benefits",
+                "question": "What are the benefits of using Finlets?",
+                "answer": "The benefits of using Finlets include enhanced fuel efficiency, extended range, and reduced carbon emissions, all achieved with minimal installation time and cost.",
+                "context": "Vortex Control Technologies has developed a patented array of small aerodynamic fins called Finlets. These fins are installed on the aft fuselage of aircraft to optimize airflow, reduce drag, and improve overall aerodynamic performance.",
+                "the_company_mainly_concerned_with_the_news_article": "Vortex Control Technologies",
+                "link": "https://www.prnewswire.com/news-releases/vortex-control-technologies-helps-norwegian-advance-sustainability-goals-with-fleetwide-adoption-of-vct-finlets-301214689.html",
+                "source": "EN_PRNASISA",
+                "summary": "The benefits of using Finlets include enhanced fuel efficiency, extended range, and reduced carbon emissions.",
+                "published_at": "2025-12-04 10:00:00"
             },
             {
-                "title": "Data Center Load Growth Concerns",
-                "question": "What concerns have been raised about data center load growth projections?",
-                "answer": "Some energy industry analysts and executives warn that an artificial intelligence bubble or speculative data center proposals could be fueling excessive load growth projections.",
-                "context": "Certain analysts and executives are concerned that excessive load growth projections for data centers might be due to an artificial intelligence bubble or speculative data center proposals.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified",
-                "link": "https://oilprice.com/Energy/Energy-General/U-S-Data-Center-Demand-Could-Hit-106-GW-by-2035.html",
-                "source": "OILPRICE",
-                "summary": "The article mentions concerns raised by some energy industry analysts and executives about excessive load growth projections for data centers potentially being due to an artificial intelligence bubble or speculative data center proposals.",
-                "published_at": "2025-12-04 17:00:00"
+                "title": "Finlets Validation",
+                "question": "Who has validated the effectiveness of Finlets?",
+                "answer": "Aviation Partners Boeing and leading operators including Avelo Airlines, SunExpress, and the U.S. Air Force have validated the effectiveness of Finlets.",
+                "context": "Vortex Control Technologies has developed a patented array of small aerodynamic fins called Finlets. These fins are installed on the aft fuselage of aircraft to optimize airflow, reduce drag, and improve overall aerodynamic performance. The benefits include enhanced fuel efficiency, extended range, and reduced carbon emissions.",
+                "the_company_mainly_concerned_with_the_news_article": "Vortex Control Technologies",
+                "link": "https://www.prnewswire.com/news-releases/vortex-control-technologies-helps-norwegian-advance-sustainability-goals-with-fleetwide-adoption-of-vct-finlets-301214689.html",
+                "source": "EN_PRNASISA",
+                "summary": "Aviation Partners Boeing and leading operators including Avelo Airlines, SunExpress, and the U.S. Air Force have validated the effectiveness of Finlets.",
+                "published_at": "2025-12-04 10:00:00"
             },
             {
-                "title": "Data Center Load Growth Forecasts",
-                "question": "What did a report from Grid Strategies say about utility forecasts of data center load growth by 2030?",
-                "answer": "The report said that utility forecasts of 90 GW additional data center load by 2030 were likely overstated.",
-                "context": "A report from Grid Strategies suggested that utility forecasts predicting an additional 90 GW of data center load by 2030 were likely overstated.",
-                "the_company_mainly_concerned_with_the_news_article": "Grid Strategies",
-                "link": "https://oilprice.com/Energy/Energy-General/U-S-Data-Center-Demand-Could-Hit-106-GW-by-2035.html",
-                "source": "OILPRICE",
-                "summary": "The article mentions a report from Grid Strategies stating that utility forecasts predicting an additional 90 GW of data center load by 2030 were likely overstated.",
-                "published_at": "2025-12-04 17:00:00"
+                "title": "Norwegian's Commitment",
+                "question": "What is Norwegian's commitment as stated in the news article?",
+                "answer": "Norwegian has committed to operational efficiency and environmental responsibility by equipping its entire Boeing 737-800 fleet with VCT's fuel-saving Finlet modification.",
+                "context": "Vortex Control Technologies has developed a patented array of small aerodynamic fins called Finlets. These fins are installed on the aft fuselage of aircraft to optimize airflow, reduce drag, and improve overall aerodynamic performance. The benefits include enhanced fuel efficiency, extended range, and reduced carbon emissions.",
+                "the_company_mainly_concerned_with_the_news_article": "Vortex Control Technologies",
+                "link": "https://www.prnewswire.com/news-releases/vortex-control-technologies-helps-norwegian-advance-sustainability-goals-with-fleetwide-adoption-of-vct-finlets-301214689.html",
+                "source": "EN_PRNASISA",
+                "summary": "Norwegian has committed to operational efficiency and environmental responsibility by equipping its entire Boeing 737-800 fleet with VCT's fuel-saving Finlet modification.",
+                "published_at": "2025-12-04 10:00:00"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What is the news article about?",
+                "question": "What is the topic of the news article?",
+                "answer": "The news article is about German watchdog warning banks of AI industry concentration risks.",
+                "context": "A German financial regulator has issued a warning to banks regarding potential risks associated with the increasing concentration in the AI industry. The regulator, BaFin, stated that the growing dominance of a few large companies could lead to market manipulation and monopolistic practices.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (The article discusses risks associated with AI industry concentration in general)",
+                "link": "https://biztoc.com/ai/german-watchdog-warns-banks-of-ai-industry-concentration-risks/",
+                "source": "BIZTOC.COM",
+                "summary": "A German financial regulator has issued a warning to banks about the potential risks associated with increasing concentration in the AI industry, citing concerns over market manipulation and monopolistic practices.",
+                "published_at": "2025-12-04T09:39:05Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What is the new digital card set to be a game-changer for the Malaysian construction industry?",
+                "question": "What is the new digital card?",
+                "answer": "A new digital card for workers in the Malaysian construction industry.",
+                "context": "The new digital card will keep track of all workers on site and is expected to revolutionize the industry, according to Works Minister Datuk Seri Alexander Nanta Linggi.",
+                "the_company_mainly_concerned_with_the_news_article": "Government of Malaysia (Works Ministry)",
+                "link": "https://www.thestar.com.my/",
+                "source": "THE STAR ONLINE",
+                "summary": "A new digital card is set to be a game-changer for the Malaysian construction industry, keeping track of all workers on site.",
+                "published_at": "2025-12-04T09:38:00Z"
             }
         ]
     }

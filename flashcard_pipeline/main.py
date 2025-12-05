@@ -16,14 +16,14 @@ FLASHCARDS_JSON_PATH = os.path.join(ROOT_DIR, "flashcards.json")
 def load_news_json():
     """Load the list of articles from resultsgen.json."""
     if not os.path.exists(NEWS_JSON_PATH):
-        raise FileNotFoundError(f"❌ News JSON not found at: {NEWS_JSON_PATH}")
+        raise FileNotFoundError(f"News JSON not found at: {NEWS_JSON_PATH}")
 
     with open(NEWS_JSON_PATH, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     # Your JSON is a LIST of articles
     if not isinstance(data, list):
-        raise ValueError("❌ Expected JSON to be a list of articles but got something else.")
+        raise ValueError("Expected JSON to be a list of articles but got something else.")
 
     return data
 
@@ -33,15 +33,15 @@ def save_flashcards(data):
     with open(FLASHCARDS_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
-    print(f"\n✅ Flashcards saved: {FLASHCARDS_JSON_PATH}")
+    print(f"\nFlashcards saved: {FLASHCARDS_JSON_PATH}")
 
 
 def main():
-    print("🚀 Flashcard pipeline started...\n")
+    print("Flashcard pipeline started...\n")
 
-    print("📄 Loading resultsgen.json ...")
+    print("Loading resultsgen.json ...")
     articles = load_news_json()
-    print(f"📰 Found {len(articles)} articles.\n")
+    print(f"Found {len(articles)} articles.\n")
 
     generator = FlashcardGenerator()
     flashcard_results = []
@@ -49,7 +49,7 @@ def main():
     for idx, article in enumerate(articles, start=1):
         title = article.get("title", "Untitled Article")
 
-        print(f"✨ Generating flashcards {idx}/{len(articles)} → {title}")
+        print(f"Generating flashcards {idx}/{len(articles)} → {title}")
 
         # The model needs content — combine title + summary for best results
         article_payload = {
@@ -64,11 +64,11 @@ def main():
             flashcard_results.append(result.dict())
 
         except Exception as e:
-            print(f"⚠ Error generating flashcards for article {idx}: {e}")
+            print(f"Error generating flashcards for article {idx}: {e}")
 
     save_flashcards(flashcard_results)
 
-    print("\n🎉 Flashcard pipeline finished successfully!")
+    print("\nFlashcard pipeline finished successfully!")
 
 
 if __name__ == "__main__":

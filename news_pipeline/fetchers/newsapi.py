@@ -11,7 +11,7 @@ def fetch_newsapi(keyword, api_key):
         "language": "en",
         "sortBy": "publishedAt",
         "from": since,
-        "pageSize": 20
+        "pageSize": 25
     }
     try:
         data = requests.get(url, params=params).json()

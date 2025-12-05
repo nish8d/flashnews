@@ -33,7 +33,7 @@ def get_all_news(keyword):
     return ranked
 
 if __name__ == "__main__":
-    topic = "English Premier League"
+    topic = "Artificial intelligence"
     results = get_all_news(topic)
 
     for article in results:

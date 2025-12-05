@@ -3,15 +3,20 @@ import sys
 from pathlib import Path
 from datetime import datetime
 import pandas as pd
+import json
+import os
 
-# Add news_pipeline directory to path
+# Add pipeline directories to path (news_pipeline first to avoid import conflicts)
+sys.path.insert(0, str(Path(__file__).parent / "flashcard_pipeline"))
 sys.path.insert(0, str(Path(__file__).parent / "news_pipeline"))
 
-from main import get_all_news
+# Import functions directly from modules
+from news_pipeline.main import get_all_news
+from flashcard_pipeline.main import main as run_flashcard_pipeline
 
 # Page configuration
 st.set_page_config(
-    page_title="News",
+    page_title="Flashcards",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -67,8 +72,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown('<div class="main-header">News past 24</div>', unsafe_allow_html=True)
-# st.markdown("### Intelligent news collection from multiple sources with AI-powered deduplication")
+st.markdown('<div class="main-header">Flashcards from News</div>', unsafe_allow_html=True)
+# st.markdown("### Generate educational flashcards from AI-powered news aggregation")
 
 # Sidebar
 with st.sidebar:
@@ -110,6 +115,8 @@ if 'results' not in st.session_state:
     st.session_state.results = None
 if 'keyword_searched' not in st.session_state:
     st.session_state.keyword_searched = None
+if 'flashcards' not in st.session_state:
+    st.session_state.flashcards = None
 
 # Results section
 if search_button:
@@ -126,11 +133,30 @@ if search_button:
                 progress_bar.progress(20)
                 
                 results = get_all_news(keyword)
-                
-                # Store results in session state
+
+                # Remove embeddings — they are NumPy arrays, not JSON-serializable
+                for article in results:
+                    article.pop("embedding", None)
+
+                # Save results to resultsgen.json
+                with open("resultsgen.json", "w") as f:
+                    json.dump(results, f, indent=2)
+
+                # Run flashcard pipeline
+                progress_text.text("Generating flashcards...")
+                progress_bar.progress(60)
+                run_flashcard_pipeline()
+                progress_bar.progress(80)
+
+                # Load flashcards
+                with open("flashcards.json", "r") as f:
+                    flashcards = json.load(f)
+
+                # Store in session state
                 st.session_state.results = results
+                st.session_state.flashcards = flashcards
                 st.session_state.keyword_searched = keyword
-                
+
                 progress_bar.progress(100)
                 progress_text.empty()
                 progress_bar.empty()
@@ -139,106 +165,103 @@ if search_button:
                 st.error(f"An error occurred: {str(e)}")
                 st.exception(e)
 
-# Display results if they exist in session state
-if st.session_state.results is not None:
-    results = st.session_state.results
+# Display flashcards if they exist in session state
+if st.session_state.flashcards is not None:
+    flashcards = st.session_state.flashcards
     keyword = st.session_state.keyword_searched
-    
+
+    # Flatten flashcards list
+    all_flashcards = []
+    for article_flashcards in flashcards:
+        all_flashcards.extend(article_flashcards['flashcards'])
+
     # Display results
-    st.success(f"Found {len(results)} relevant articles")
-    
+    st.success(f"Generated {len(all_flashcards)} flashcards")
+
     # Statistics
     col1, col2, col3, col4 = st.columns(4)
     with col1:
-        st.metric("Total Articles", len(results))
+        st.metric("Total Flashcards", len(all_flashcards))
     with col2:
-        sources = len(set(a['source'] for a in results))
-        st.metric("Unique Sources", sources)
+        topics = len(set(f['topic'] for f in all_flashcards))
+        st.metric("Unique Topics", topics)
     with col3:
-        avg_score = sum(a['score'] for a in results) / len(results) if results else 0
-        st.metric("Avg Score", f"{avg_score:.2f}")
+        difficulties = ['easy', 'medium', 'hard']
+        avg_diff = sum(difficulties.index(f['difficulty'].lower()) for f in all_flashcards) / len(all_flashcards) if all_flashcards else 0
+        st.metric("Avg Difficulty", f"{avg_diff:.1f}")
     with col4:
-        high_quality = sum(1 for a in results if a['score'] >= 0.7)
-        st.metric("High Quality", high_quality)
-    
+        high_quality = sum(1 for f in all_flashcards if f['difficulty'].lower() == 'hard')
+        st.metric("Advanced Cards", high_quality)
+
     st.markdown("---")
-    
+
     # Filter and sort options
     col1, col2 = st.columns([2, 1])
     with col1:
-        source_filter = st.multiselect(
-            "Filter by source:",
-            options=sorted(set(a['source'] for a in results)),
+        difficulty_filter = st.multiselect(
+            "Filter by difficulty:",
+            options=sorted(set(f['difficulty'] for f in all_flashcards)),
             default=[]
         )
     with col2:
         sort_order = st.selectbox(
             "Sort by:",
-            options=["Relevance Score (High to Low)", "Relevance Score (Low to High)"],
+            options=["Difficulty (Easy to Hard)", "Difficulty (Hard to Easy)"],
             index=0
         )
-    
+
     # Apply filters
-    filtered_results = results
-    if source_filter:
-        filtered_results = [a for a in results if a['source'] in source_filter]
-    
+    filtered_flashcards = all_flashcards
+    if difficulty_filter:
+        filtered_flashcards = [f for f in all_flashcards if f['difficulty'] in difficulty_filter]
+
     # Apply sorting
-    if "Low to High" in sort_order:
-        filtered_results = sorted(filtered_results, key=lambda x: x['score'])
+    if "Hard to Easy" in sort_order:
+        filtered_flashcards = sorted(filtered_flashcards, key=lambda x: difficulties.index(x['difficulty'].lower()), reverse=True)
     else:
-        filtered_results = sorted(filtered_results, key=lambda x: x['score'], reverse=True)
-    
-    st.markdown(f"Showing {len(filtered_results)} articles")
-    
-    # Display articles
-    for idx, article in enumerate(filtered_results, 1):
-        score = article['score']
-        
-        # Determine score class
-        if score >= 0.7:
-            score_class = "score-high"
-        elif score >= 0.4:
-            score_class = "score-medium"
-        else:
-            score_class = "score-low"
-        
+        filtered_flashcards = sorted(filtered_flashcards, key=lambda x: difficulties.index(x['difficulty'].lower()))
+
+    st.markdown(f"Showing {len(filtered_flashcards)} flashcards")
+
+    # Display flashcards
+    for idx, flashcard in enumerate(filtered_flashcards, 1):
         with st.container():
             st.markdown(f"""
             <div class="article-card">
-                <div class="article-title">{idx}. {article['title']}</div>
+                <div class="article-title">{idx}. {flashcard['question']}</div>
                 <div class="article-meta">
-                    <strong>Source:</strong> {article['source']} | 
-                    <span class="score-badge {score_class}">Score: {score:.3f}</span>
+                    <strong>Answer:</strong> {flashcard['answer']} |
+                    <strong>Difficulty:</strong> {flashcard['difficulty']} |
+                    <strong>Topic:</strong> {flashcard['topic']}
                 </div>
             </div>
             """, unsafe_allow_html=True)
-            
-            col1, col2 = st.columns([4, 1])
-            with col1:
-                if article.get('description'):
-                    st.markdown(f"**Description:** {article['description']}")
-            with col2:
-                st.link_button("Read More", article['link'], use_container_width=True)
-            
+
+            # Show article metadata
+            with st.expander("Article Details"):
+                st.markdown(f"**Title:** {flashcard['title']}")
+                st.markdown(f"**Source:** {flashcard['source']}")
+                st.markdown(f"**Published:** {flashcard['published_at']}")
+                st.markdown(f"**Summary:** {flashcard['summary']}")
+                st.markdown(f"**Score:** {flashcard['score']}")
+                st.link_button("Read Full Article", flashcard['link'])
+
             st.markdown("---")
-    
+
     # Export option
-    if st.button("Export Results to CSV"):
-        df = pd.DataFrame(results)
-        csv = df.to_csv(index=False)
+    if st.button("Export Flashcards to JSON"):
         st.download_button(
-            label="Download CSV",
-            data=csv,
-            file_name=f"news_results_{keyword.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv",
-            mime="text/csv"
+            label="Download JSON",
+            data=json.dumps(all_flashcards, indent=2),
+            file_name=f"flashcards_{keyword.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json",
+            mime="application/json"
         )
 
 # Footer
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: #7f8c8d; padding: 2rem;'>"
-    "Built with Streamlit | AI-Powered News Aggregation"
+    "Built with Streamlit | AI-Powered News Aggregation & Flashcard Generation"
     "</div>",
     unsafe_allow_html=True
 )

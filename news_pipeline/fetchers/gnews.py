@@ -1,7 +1,7 @@
 import requests
 from processing.normalize import normalize_article
 
-def fetch_gnews(keyword, api_key, country="us"):
+def fetch_gnews(keyword, api_key, country="in"):
     url = "https://gnews.io/api/v4/search"
     params = {
         'token': api_key,
@@ -9,7 +9,7 @@ def fetch_gnews(keyword, api_key, country="us"):
         'lang': 'en',
         'country': country,
         'sortby': 'publishedAt',
-        'max': 10
+        'max': 25
     }
     try:
         data = requests.get(url, params=params).json()

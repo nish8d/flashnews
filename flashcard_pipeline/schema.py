@@ -7,7 +7,6 @@ class Flashcard(BaseModel):
     title: str
     question: str
     answer: str
-    score: str
     context: str
     the_company_mainly_concerned_with_the_news_article: str
     link: str

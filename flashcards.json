@@ -2,15 +2,15 @@
     {
         "flashcards": [
             {
-                "title": "What is the current role of Artificial Intelligence (AI) in our lives?",
-                "question": "How is AI currently impacting our lives?",
-                "answer": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. It's a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing.",
-                "score": "3",
-                "context": "AI is transforming industries, reshaping economies, and influencing daily life.",
-                "the_company_mainly_concerned_with_the_news_article": "Google (as the executive quoted in the article is from Google)",
-                "link": "https://www.devdiscourse.com/article/technology/1653407-artificial-intelligence-revolutionizing-every-aspect-of-life---reuters-next-google-executive-sees-ai-search-as-expansion-for-web",
+                "title": "What is the role of Artificial Intelligence (AI) in modern society?",
+                "question": "How is AI impacting our lives, work, and interactions?",
+                "answer": "Artificial Intelligence is a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
+                "score": "4",
+                "context": "AI is revolutionizing every aspect of life, making significant changes in various sectors such as healthcare, finance, entertainment, and manufacturing.",
+                "the_company_mainly_concerned_with_the_news_article": "Google (as the executive's perspective is mentioned)",
+                "link": "https://www.devdiscourse.com/article/technology/1634579-artificial-intelligence-revolutionizing-every-aspect-of-life---reuters-next-google-executive-sees-ai-search-as-expansion-for-web",
                 "source": "DEVDISCOURSE",
-                "summary": "Artificial Intelligence (AI) is revolutionizing every aspect of life, impacting sectors such as healthcare, finance, entertainment, and manufacturing.",
+                "summary": "Artificial Intelligence is rapidly redefining the way we live, work, and interact. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
                 "published_at": "2025-12-04T19:42:07Z"
             }
         ]
@@ -18,15 +18,15 @@
     {
         "flashcards": [
             {
-                "title": "What is causing job displacement in the AI sector?",
-                "question": "What is causing job displacement in the AI sector?",
-                "answer": "Artificial Intelligence is replacing entry-level positions and causing companies to trim hiring plans.",
-                "score": "3",
-                "context": "A U.S. Federal Reserve report notes data and surveys that indicate AI is responsible for job displacement.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified in the article",
-                "link": "https://www.devdiscourse.com/article/technology/1653479-reuters-next-ais-rise-stirs-excitement-sparks-job-worries",
+                "title": "What is causing job displacement fears in the AI sector?",
+                "question": "Why are there concerns about job losses due to AI?",
+                "answer": "The fears stem from the replacement of entry-level positions by artificial intelligence and companies reducing their hiring plans, as suggested by a U.S. Federal Reserve report.",
+                "score": "Not specified",
+                "context": "The rapid advancement of AI technology is leading to concerns about job displacement, with companies replacing human workers with AI systems.",
+                "the_company_mainly_concerned_with_the_news_article": "U.S. Federal Reserve",
+                "link": "https://www.devdiscourse.com/article-reuters-next-ais-rise-stirs-excitement-sparks-job-worries-1534607",
                 "source": "DEVDISCOURSE",
-                "summary": "The article discusses the fears of job displacement due to AI, citing a U.S. Federal Reserve report.",
+                "summary": "The article discusses the fears of job displacement due to AI, backed by a U.S. Federal Reserve report.",
                 "published_at": "2025-12-04T21:52:06Z"
             }
         ]
@@ -36,37 +36,25 @@
             {
                 "title": "What industry is undergoing a digital transformation?",
                 "question": "Global Mining Industry",
-                "answer": "Yes",
-                "score": "100%",
-                "context": "The global mining industry is undergoing a rapid digital transformation due to the energy transition and complex extraction environments.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified",
+                "answer": "The global mining industry is undergoing a rapid digital transformation.",
+                "score": "4",
+                "context": "This transformation is driven by the dual pressures of the energy transition and increasingly complex extraction environments.",
+                "the_company_mainly_concerned_with_the_news_article": "",
                 "link": "https://www.oilprice.com/Energy/Energy-General/The-AI-Revolution-Reshaping-The-Global-Mining-Industry.html",
                 "source": "OILPRICE",
-                "summary": "The global mining industry is experiencing a digital transformation, driven by the energy transition and complex extraction environments. The AI in mining market is projected to nearly quadruple in value over the next seven years.",
+                "summary": "A new market report projects the global Artificial Intelligence (AI) in mining market will nearly quadruple in value over the next seven years, reaching $9.93 billion by 2032.",
                 "published_at": "2025-12-04 21:00:00"
             },
             {
-                "title": "What is the projected value of the global AI in mining market by 2032?",
-                "question": "$9.93 billion",
-                "answer": "Yes",
-                "score": "100%",
-                "context": "The new market report projects the global Artificial Intelligence (AI) in mining market will nearly quadruple in value over the next seven years, reaching $9.93 billion by 2032.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified",
+                "title": "What challenges are miners facing?",
+                "question": "Declining ore grades, labor shortages, and an insatiable global appetite for critical minerals.",
+                "answer": "Miners face a 'perfect storm' of challenges: declining ore grades, labor shortages, and an insatiable global appetite for the critical minerals required to power electric...",
+                "score": "3",
+                "context": "",
+                "the_company_mainly_concerned_with_the_news_article": "",
                 "link": "https://www.oilprice.com/Energy/Energy-General/The-AI-Revolution-Reshaping-The-Global-Mining-Industry.html",
                 "source": "OILPRICE",
-                "summary": "The global AI in mining market is projected to nearly quadruple in value over the next seven years, reaching $9.93 billion by 2032.",
-                "published_at": "2025-12-04 21:00:00"
-            },
-            {
-                "title": "Why is there a surge in AI adoption in the mining industry?",
-                "question": "Mining faces a 'perfect storm' of challenges",
-                "answer": "Yes",
-                "score": "100%",
-                "context": "Miners face a 'perfect storm' of challenges: declining ore grades, labor shortages, and an insatiable global appetite for the critical minerals required to power electric...",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified",
-                "link": "https://www.oilprice.com/Energy/Energy-General/The-AI-Revolution-Reshaping-The-Global-Mining-Industry.html",
-                "source": "OILPRICE",
-                "summary": "There is a surge in AI adoption in the mining industry due to the challenges miners face, including declining ore grades, labor shortages, and an insatiable global appetite for critical minerals.",
+                "summary": "",
                 "published_at": "2025-12-04 21:00:00"
             }
         ]
@@ -74,15 +62,15 @@
     {
         "flashcards": [
             {
-                "title": "How is AI aiding in the race for mineral deposits?",
-                "question": "What role is AI playing in the search for mineral deposits?",
-                "answer": "AI is being used for exploration and extraction, leading the way in the race to find mineral deposits.",
-                "score": "3",
-                "context": "The article discusses how AI technology is being utilized in the search for mineral deposits, making it easier and more efficient.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified (Article does not mention a specific company)",
-                "link": "https://www.tribuneindia.com/news/science/ai-accurately-predicts-location-of-mineral-deposits-423610",
+                "title": "AI and Mineral Deposit Prediction",
+                "question": "What is the significance of AI in mineral deposit prediction?",
+                "answer": "AI technology is being used for exploration and extraction, leading the way in the race to find mineral deposits needed to support the world's growing population and energy transition.",
+                "score": "Not Scored",
+                "context": "The article discusses how AI is playing a crucial role in finding mineral deposits that are essential for supporting the world's growing population and energy transition.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified",
+                "link": "https://www.thetribune.com/ai-accurately-predicts-location-of-mineral-deposits/",
                 "source": "THE TRIBUNE",
-                "summary": "The article highlights the use of AI in finding mineral deposits, which is crucial for supporting the growing population and energy transition.",
+                "summary": "The race to find mineral deposits needed to support the world's growing population and energy transition is on, and those using artificial intelligence technology for exploration and extraction are already leading the way.",
                 "published_at": "2025-12-04T17:30:12Z"
             }
         ]
@@ -91,70 +79,58 @@
         "flashcards": [
             {
                 "title": "What is the focus of leading AI developers?",
-                "question": "What is the focus of leading AI developers?",
-                "answer": "Leading AI developers are focused on building AI models that mimic the way humans reason.",
+                "question": "What are leading AI developers mainly focused on building?",
+                "answer": "AI models that mimic human reasoning.",
                 "score": "3",
                 "context": "Nearly all leading artificial intelligence developers are focused on building AI models that mimic the way humans reason.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified (applies to multiple companies)",
-                "link": "https://www.livemint.com/technology/tech-news/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff-11670238459467.html",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (applies to multiple companies in the AI industry)",
+                "link": "https://www.livemint.com/technology/tech-news/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff-11670238459367.html",
                 "source": "LIVEMINT",
                 "summary": "Article discusses the energy consumption of advanced AI reasoning models, raising concerns about their impact on power grids.",
                 "published_at": "2025-12-04T18:25:56Z"
             },
             {
-                "title": "What is a concern related to the advancement of AI reasoning models?",
-                "question": "What is a concern related to the advancement of AI reasoning models?",
-                "answer": "A concern related to the advancement of AI reasoning models is their energy consumption, which can strain power grids.",
-                "score": "2",
-                "context": "New research shows these cutting-edge systems can be far more energy intensive, adding to concerns about AI’s strain on power grids.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified (applies to multiple companies)",
-                "link": "https://www.livemint.com/technology/tech-news/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff-11670238459467.html",
-                "source": "LIVEMINT",
-                "summary": "Article discusses the energy consumption of advanced AI reasoning models, raising concerns about their impact on power grids.",
-                "published_at": "2025-12-04T18:25:56Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "What is the new AI model introduced?",
-                "question": "What is the name of the new AI model?",
-                "answer": "Mistral 3",
-                "score": "100%",
-                "context": "The article discusses a new family of AI models called Mistral 3.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified in the article",
-                "link": "https://www.geeky-gadgets.com/new-mistral-3-large-ai-models-coding-multilingual-multimodal-ai-with-sparse-experts/",
-                "source": "GEEKY GADGETS",
-                "summary": "The article introduces the Mistral 3 family of AI models, an open source technology that promises to redefine AI.",
-                "published_at": "2025-12-04T09:42:28Z"
-            },
-            {
-                "title": "What are some features of the Mistral 3 AI models?",
-                "question": "What are some key features of the Mistral 3 AI models?",
-                "answer": "Coding, Multilingual, Multimodal AI with Sparse Experts",
-                "score": "100%",
-                "context": "The article mentions that the Mistral 3 AI models are coding, multilingual, multimodal, and use sparse experts.",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified in the article",
-                "link": "https://www.geeky-gadgets.com/new-mistral-3-large-ai-models-coding-multilingual-multimodal-ai-with-sparse-experts/",
-                "source": "GEEKY GADGETS",
-                "summary": "The article highlights that the Mistral 3 AI models have features such as coding, multilingual, multimodal capabilities, and use sparse experts.",
-                "published_at": "2025-12-04T09:42:28Z"
-            }
-        ]
-    },
-    {
-        "flashcards": [
-            {
-                "title": "What is OpenAI's new development?",
-                "question": "What is the new development announced by OpenAI?",
-                "answer": "OpenAI is working on a framework that will train artificial intelligence models to acknowledge when they’ve engaged in undesirable behavior, an approach called a confession.",
+                "title": "What is a concern related to the development of advanced AI reasoning models?",
+                "question": "What is one concern related to the development of advanced AI reasoning models?",
+                "answer": "Strain on power grids due to increased energy consumption.",
                 "score": "3",
-                "context": "The team at OpenAI is developing a system that aims to teach AI models to admit when they've exhibited unacceptable behavior. This approach is referred to as 'confession'.",
+                "context": "New research shows these cutting-edge systems can be far more energy intensive, adding to concerns about AI’s strain on power grids.",
+                "the_company_mainly_concerned_with_the_news_article": "Not specified (applies to multiple companies in the AI industry)",
+                "link": "https://www.livemint.com/technology/tech-news/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff-11670238459367.html",
+                "source": "LIVEMINT",
+                "summary": "Article discusses the energy consumption of advanced AI reasoning models, raising concerns about their impact on power grids.",
+                "published_at": "2025-12-04T18:25:56Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "What is the Mistral 3 family of AI models?",
+                "question": "What is the innovation in open source technology that promises to redefine how we approach artificial intelligence?",
+                "answer": "The Mistral 3 family of AI models is an innovative leap in open source technology.",
+                "score": "Not yet scored",
+                "context": "This new technology aims to make the next breakthrough in AI accessible to everyone, not just corporations. It's a multilingual, multimodal AI with sparse experts.",
+                "the_company_mainly_concerned_with_the_news_article": "Not applicable (open source technology)",
+                "link": "https://www.geeky-gadgets.com/new-mistral-3-large-ai-models-coding-multilingual-multimodal-ai-with-sparse-experts/",
+                "source": "GEEKY GADGETS",
+                "summary": "The Mistral 3 family of AI models is an open source technology that promises to redefine how we approach artificial intelligence, offering multilingual, multimodal capabilities with sparse experts.",
+                "published_at": "2025-12-04T09:42:28Z"
+            }
+        ]
+    },
+    {
+        "flashcards": [
+            {
+                "title": "OpenAI's Confession System",
+                "question": "What is OpenAI working on regarding artificial intelligence models?",
+                "answer": "They are developing a framework to train AI models to acknowledge undesirable behavior, which they call a 'confession'.",
+                "score": "5",
+                "context": "The team at OpenAI aims to teach AI models to admit when they've engaged in bad behaviors. This approach is called a confession system.",
                 "the_company_mainly_concerned_with_the_news_article": "OpenAI",
-                "link": "https://www.madshrimps.be/openais-new-confession-system-teaches-models-to-be-honest-about-bad-behaviors/",
+                "link": "https://www.madshrimps.be/2025/12/04/openais-new-confession-system-teaches-models-to-be-honest-about-bad-behaviors/",
                 "source": "MADSHRIMPS.BE",
-                "summary": "OpenAI is developing a framework to train AI models to admit when they've exhibited undesirable behavior, an approach called 'confession'.",
+                "summary": "OpenAI is working on a framework to train AI models to acknowledge when they've engaged in undesirable behavior, an approach called a confession.",
                 "published_at": "2025-12-04T09:11:29Z"
             }
         ]
@@ -162,15 +138,15 @@
     {
         "flashcards": [
             {
-                "title": "SAP CEO's Urge for Europe to Unite and Ease AI Rules",
-                "question": "What did SAP CEO urge Europe to do regarding AI rules?",
-                "answer": "SAP CEO urged Europe to unite and ease AI rules to stay competitive.",
-                "score": "3",
-                "context": "Klein's comments come as Brussels revises the rollout of the EU's landmark Artificial Intelligence Act. In November, the European Commission proposed a 'Digital Omnibus' to streamline tech laws and delay enforcement of the Act's strictest high-risk rules to December 2027 from August 2026.",
+                "title": "SAP CEO's Call for European AI Unity",
+                "question": "What did SAP CEO, Christian Klein, urge Europe to do regarding AI?",
+                "answer": "He urged Europe to unite and ease AI rules to stay competitive.",
+                "score": "",
+                "context": "Klein's comments come as Brussels revises the rollout of the EU's landmark Artificial Intelligence Act. The European Commission proposed a 'Digital Omnibus' to streamline tech laws and delay enforcement of the Act's strictest high-risk rules to December 2027 from August 2026.",
                 "the_company_mainly_concerned_with_the_news_article": "SAP",
-                "link": "https://www.devdiscourse.com/article/business/1543891-reuters-next-sap-ceo-urges-europe-to-unite-and-ease-ai-rules-to-stay-competitive",
+                "link": "",
                 "source": "DEVDISCOURSE",
-                "summary": "SAP CEO, Klein, has urged Europe to focus on vertical use cases where they have expertise and data instead of building more data centers. This comes as the European Commission is revising the rollout of the EU's Artificial Intelligence Act.",
+                "summary": "Klein called for European unity in AI and easing of rules to stay competitive, as the EU revises its Artificial Intelligence Act.",
                 "published_at": "2025-12-04T21:32:28Z"
             }
         ]
@@ -181,24 +157,24 @@
                 "title": "Which AI tool was the most-searched in India according to Google's Year in Search 2025?",
                 "question": "What is the name of the AI tool that gained the highest search volume in India as per Google's Year in Search 2025?",
                 "answer": "Google Gemini",
-                "score": "100%",
-                "context": "India TV News reported that Google's Year in Search 2025 highlights India's growing fascination with artificial intelligence. According to the report, Google Gemini emerged as the most-searched AI tool in the country.",
+                "score": "1",
+                "context": "India's growing fascination with artificial intelligence is highlighted by Google's Year in Search 2025, where Google Gemini emerged as the most-searched AI tool.",
                 "the_company_mainly_concerned_with_the_news_article": "Google",
-                "link": "https://www.indiatvnews.com/tech/google-gemini-beats-chatgpt-in-indias-ai-search-chart-along-with-grok-and-perplexity-1873495",
+                "link": "https://www.indiatvnews.com/tech/google-gemini-beats-chatgpt-in-indias-ai-search-chart-along-with-grok-and-perplexity-1873465",
                 "source": "INDIA TV NEWS",
-                "summary": "Google Gemini was the most-searched AI tool in India as per Google's Year in Search 2025.",
+                "summary": "Google's Year in Search 2025 reveals that Google Gemini was the most-searched AI tool in India, outperforming ChatGPT and other tools like Grok and Perplexity.",
                 "published_at": "2025-12-04T18:19:06Z"
             },
             {
-                "title": "Which other two AI tools outperformed ChatGPT in India as per Google's Year in Search 2025?",
-                "question": "Which two AI tools, apart from Google Gemini, outperformed ChatGPT in India according to Google's Year in Search 2025?",
+                "title": "Which AI tools also outperformed ChatGPT in India's AI search chart?",
+                "question": "Which other AI tools, apart from Google Gemini, outperformed ChatGPT in India's AI search chart as per Google's Year in Search 2025?",
                 "answer": "Grok and Perplexity",
-                "score": "100%",
-                "context": "India TV News reported that Google's Year in Search 2025 highlights India's growing fascination with artificial intelligence. Apart from Google Gemini, Grok and Perplexity also outperformed ChatGPT in buzz and engagement.",
+                "score": "1",
+                "context": "Google's Year in Search 2025 highlights that Grok and Perplexity also outperformed ChatGPT in buzz and engagement in India.",
                 "the_company_mainly_concerned_with_the_news_article": "Google",
-                "link": "https://www.indiatvnews.com/tech/google-gemini-beats-chatgpt-in-indias-ai-search-chart-along-with-grok-and-perplexity-1873495",
+                "link": "https://www.indiatvnews.com/tech/google-gemini-beats-chatgpt-in-indias-ai-search-chart-along-with-grok-and-perplexity-1873465",
                 "source": "INDIA TV NEWS",
-                "summary": "Grok and Perplexity outperformed ChatGPT in India as per Google's Year in Search 2025.",
+                "summary": "Google's Year in Search 2025 reveals that, apart from Google Gemini, AI tools like Grok and Perplexity also outperformed ChatGPT in India.",
                 "published_at": "2025-12-04T18:19:06Z"
             }
         ]
@@ -206,15 +182,15 @@
     {
         "flashcards": [
             {
-                "title": "Kazakhstan's Digitalization Strategy",
+                "title": "Kazakhstan's Digital Transformation Strategy",
                 "question": "What is Kazakhstan's goal regarding digitalization and artificial intelligence?",
-                "answer": "Kazakhstan seeks to ensure that digitalization and artificial intelligence become engines of inclusive development - technologies that strengthen their economy, protect their citizens, and enhance the country’s standing in an increasingly digital world.",
-                "score": "3",
-                "context": "The Times of India article discusses Kazakhstan's plans to leverage digitalization and AI for economic growth and citizen protection.",
-                "the_company_mainly_concerned_with_the_news_article": "Kazakhstan",
-                "link": "https://timesofindia.indiatimes.com/.../kazakhstan-transforming-its-geographic-advantage-into-a-powerful-economic-asset/articleshow/96845721.cms",
+                "answer": "Kazakhstan aims to leverage digitalization and artificial intelligence as engines of inclusive development, strengthening the economy, protecting citizens, and enhancing the country’s standing in a digital world.",
+                "score": "",
+                "context": "According to Azam, Kazakhstan seeks to ensure that digitalization and AI become key drivers for economic growth, security, and international recognition.",
+                "the_company_mainly_concerned_with_the_news_article": "",
+                "link": "https://timesofindia.indiatimes.com/business/international-business/kazakhstan-transforming-its-geographic-advantage-into-a-powerful-economic-asset/articleshow/96832471.cms",
                 "source": "THE TIMES OF INDIA",
-                "summary": "Kazakhstan aims to use digitalization and AI as tools for economic growth, citizen protection, and international standing.",
+                "summary": "Kazakhstan is focusing on digitalization and AI to drive economic growth, protect citizens, and boost its international standing.",
                 "published_at": "2025-12-04T09:41:34Z"
             }
         ]
@@ -222,15 +198,15 @@
     {
         "flashcards": [
             {
-                "title": "What is the concern about China's AI ambitions?",
-                "question": "Can China fund its AI ambitions?",
-                "answer": "According to former Google CEO Eric Schmidt, there might be a funding gap in the sector.",
-                "score": "3",
-                "context": "China's designs on supremacy in artificial intelligence could be hindered by a funding gap in the sector, according to former Google CEO Eric Schmidt, who cast doubt on China's ability to fund its AI ambitions.",
-                "the_company_mainly_concerned_with_the_news_article": "YAHOO ENTERTAINMENT",
-                "link": "https://entertainment.yahoo.com/can-china-fund-its-ai-ambitions-ex-google-ceo-eric-schmidt-casts-doubt-230648579.html",
+                "title": "China's AI Funding Gap",
+                "question": "What is the concern about China's ambitions in artificial intelligence?",
+                "answer": "There is a potential funding gap in the sector.",
+                "score": "4",
+                "context": "Former Google CEO Eric Schmidt has expressed doubts about China's ability to fund its AI ambitions due to a possible funding deficiency in the sector.",
+                "the_company_mainly_concerned_with_the_news_article": "Yahoo Entertainment",
+                "link": "https://entertainment.yahoo.com/can-china-fund-its-ai-ambitions-ex-google-ceo-eric-schmidt-casts-doubt-230748615.html",
                 "source": "YAHOO ENTERTAINMENT",
-                "summary": "Former Google CEO Eric Schmidt has expressed concerns about China's ability to fund its ambitions in artificial intelligence due to a potential funding gap.",
+                "summary": "Former Google CEO Eric Schmidt has raised concerns about China's ability to fund its ambitions in artificial intelligence due to a potential funding gap in the sector.",
                 "published_at": "2025-12-04T09:30:00Z"
             }
         ]
@@ -238,15 +214,15 @@
     {
         "flashcards": [
             {
-                "title": "What is the EU antitrust investigation about regarding Meta Platforms?",
-                "question": "What is the focus of the EU antitrust investigation on Meta Platforms?",
-                "answer": "The EU antitrust investigation is about Meta's rollout of artificial intelligence features in its WhatsApp messenger that would block rivals.",
-                "score": "100%",
-                "context": "Meta Platforms was subject to another EU antitrust investigation on Thursday over its plan to implement AI features in WhatsApp that could potentially exclude competitors.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta Platforms (Facebook)",
+                "title": "Meta EU Antitrust Investigation",
+                "question": "What is the EU antitrust investigation that Meta Platforms is facing?",
+                "answer": "The EU antitrust investigation is regarding Meta's rollout of artificial intelligence features in its WhatsApp messenger that would block rivals.",
+                "score": "Not Yet Scored",
+                "context": "Meta Platforms, the parent company of Facebook and Instagram, is under investigation by the European Union for implementing AI features on WhatsApp that could potentially exclude competitors.",
+                "the_company_mainly_concerned_with_the_news_article": "Meta Platforms",
                 "link": "https://www.thetribune.com/2025/12/04/meta-faces-eu-probe-over-plan-to-block-ai-rivals-on-whatsapp",
                 "source": "THE TRIBUNE",
-                "summary": "Meta Platforms is under investigation by the EU for implementing AI features in WhatsApp that could potentially exclude competitors.",
+                "summary": "Meta Platforms is facing another EU antitrust investigation over its AI features on WhatsApp that could potentially block competitors.",
                 "published_at": "2025-12-04T21:22:22Z"
             }
         ]
@@ -256,13 +232,13 @@
             {
                 "title": "What is the plan announced by the T'gana government?",
                 "question": "What is the plan announced by the T'gana government?",
-                "answer": "The plan is to develop Hyderabad as 'Quantum City'.",
-                "score": "100%",
-                "context": "The strategy aims to strengthen research infrastructure, cybersecurity systems, life sciences innovation, and human capital development, while promoting cutting-edge research in quantum computing, quantum communication, sensing, and cryptographic security.",
-                "the_company_mainly_concerned_with_the_news_article": "T'gana government",
-                "link": "https://www.devdiscourse.com/article/general/1834507-tgana-govt-unveils-plan-to-develop-hyderabad-as-quantum-city",
+                "answer": "The plan aims to develop Hyderabad as a 'Quantum City'.",
+                "score": "",
+                "context": "The strategy, he said, aims to strengthen research infrastructure, cybersecurity systems, life sciences innovation, and human capital development, while promoting cutting-edge research in quantum computing, quantum communication, sensing, and cryptographic security.",
+                "the_company_mainly_concerned_with_the_news_article": "",
+                "link": "https://www.devdiscourse.com/article/general/1834527-tgana-govt-unveils-plan-to-develop-hyderabad-as-quantum-city",
                 "source": "DEVDISCOURSE",
-                "summary": "The T'gana government has announced a plan to develop Hyderabad as 'Quantum City', focusing on quantum technologies, artificial intelligence, and advanced digital systems.",
+                "summary": "The T'gana government has announced a plan to develop Hyderabad as a 'Quantum City'. The strategy focuses on strengthening research infrastructure, cybersecurity systems, life sciences innovation, and human capital development, while promoting cutting-edge research in quantum computing, quantum communication, sensing, and cryptographic security.",
                 "published_at": "2025-12-04T16:59:12Z"
             }
         ]
@@ -270,39 +246,15 @@
     {
         "flashcards": [
             {
-                "title": "What is the planned budget cut for Meta's metaverse division?",
-                "question": "How much budget is Mark Zuckerberg planning to cut for Meta's metaverse division?",
-                "answer": "Potentially up to 30%",
-                "score": "High School (Grade 9-12)",
-                "context": "The CEO of Meta, Mark Zuckerberg, is reportedly planning significant resource cuts for its metaverse division. These cuts could be as high as 30%.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta Platforms Inc.",
-                "link": "https://timesofindia.indiatimes.com/business/india-business/zuckerberg-to-cut-budget-by-billions-for-project-fb-owner-changed-its-name/articleshow/96842301.cms",
+                "title": "Meta's Budget Cuts for Metaverse Division",
+                "question": "What is Mark Zuckerberg planning to do with the budget for Meta's metaverse division?",
+                "answer": "Mark Zuckerberg is planning significant resource cuts, potentially as high as 30%.",
+                "score": "4",
+                "context": "The CEO of Meta (formerly Facebook) is reportedly planning to cut the budget for its metaverse division by a substantial amount. This could mean potential layoffs early next year.",
+                "the_company_mainly_concerned_with_the_news_article": "Meta",
+                "link": "https://timesofindia.indiatimes.com/business/india-business/Zuckerberg-to-cut-budget-by-billions-for-project-FB-owner-changed-its-name/articleshow/96842310.cms",
                 "source": "TOI",
-                "summary": "Meta CEO Mark Zuckerberg is planning to cut the budget for its metaverse division by potentially up to 30%. This comes as the company shifts its focus towards artificial intelligence development.",
-                "published_at": "2025-12-04 18:06:47"
-            },
-            {
-                "title": "What changes is Meta making in terms of its focus?",
-                "question": "What changes is Meta making in terms of its focus, according to the news article?",
-                "answer": "Meta is shifting its focus towards artificial intelligence development.",
-                "score": "High School (Grade 9-12)",
-                "context": "The company is reportedly changing its focus towards artificial intelligence development.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta Platforms Inc.",
-                "link": "https://timesofindia.indiatimes.com/business/india-business/zuckerberg-to-cut-budget-by-billions-for-project-fb-owner-changed-its-name/articleshow/96842301.cms",
-                "source": "TOI",
-                "summary": "Meta is shifting its focus towards artificial intelligence development.",
-                "published_at": "2025-12-04 18:06:47"
-            },
-            {
-                "title": "What impact could the budget cuts have on Meta's VR group?",
-                "question": "What potential impact could the budget cuts have on Meta's VR group?",
-                "answer": "The budget reductions are expected to impact the VR group and potentially lead to layoffs early next year.",
-                "score": "High School (Grade 9-12)",
-                "context": "The budget cuts could lead to potential layoffs in the VR group early next year.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta Platforms Inc.",
-                "link": "https://timesofindia.indiatimes.com/business/india-business/zuckerberg-to-cut-budget-by-billions-for-project-fb-owner-changed-its-name/articleshow/96842301.cms",
-                "source": "TOI",
-                "summary": "The budget cuts could lead to potential layoffs in the VR group early next year.",
+                "summary": "Meta CEO Mark Zuckerberg is planning to cut the budget for its metaverse division by a significant amount, potentially leading to layoffs early next year.",
                 "published_at": "2025-12-04 18:06:47"
             }
         ]
@@ -312,13 +264,13 @@
             {
                 "title": "Why did Meta's shares rise sharply on December 4, 2025?",
                 "question": "What caused the increase in Meta's share price on December 4, 2025?",
-                "answer": "The shares rose due to a report that Meta is significantly cutting back on virtual reality investments.",
-                "score": "3",
-                "context": "The Facebook parent company is pivoting toward artificial intelligence.",
-                "the_company_mainly_concerned_with_the_news_article": "Meta (formerly known as Facebook)",
-                "link": "https://startupnews.com/meta-shares-jump-on-report-company-slashing-vr-spending",
+                "answer": "The rise was due to a report indicating that Meta (Facebook's parent company) is significantly reducing its investments in virtual reality.",
+                "score": "Not Scored",
+                "context": "In 2021, CEO and founder Mark Zuckerberg had heavily invested in virtual reality. However, recent reports suggest a shift towards artificial intelligence, leading to reduced spending on VR.",
+                "the_company_mainly_concerned_with_the_news_article": "Meta (Facebook's parent company)",
+                "link": "https://www.startupnews.com/2025/12/04/meta-shares-jump-on-report-company-slashing-vr-spending/",
                 "source": "STARTUPNEWS",
-                "summary": "A report suggests Meta is reducing its investments in virtual reality and focusing on artificial intelligence, causing a rise in the company's share price.",
+                "summary": "Meta's shares rose on December 4, 2025, due to a report suggesting the company is cutting back on virtual reality investments and focusing more on artificial intelligence.",
                 "published_at": "2025-12-04 18:12:02"
             }
         ]
@@ -326,39 +278,15 @@
     {
         "flashcards": [
             {
-                "title": "What was the performance of US stock indexes on a specific date?",
-                "question": "How did US stock indexes perform on December 4, 2025?",
-                "answer": "US stock indexes ended near flat.",
-                "score": "3",
-                "context": "A delayed report from the Commerce Department showed factory orders rose 0.2%, short of the 0.5% estimate, after a downwardly revised 1.3% increase in August as tariffs hemmed in manufacturers. Dow component Salesforce climbed after the company raised its fiscal 2026 revenue and adjusted profit forecasts, anticipating growth in its artificial intelligence agent platform due to strong enterprise demand.",
-                "the_company_mainly_concerned_with_the_news_article": "Salesforce",
-                "link": "",
+                "title": "Why did US stocks end near flat on December 4, 2025?",
+                "question": "What factors influenced the performance of US stocks on this date?",
+                "answer": "The performance was supported by hopes for the Federal Reserve's actions but dragged down by Amazon.",
+                "score": "Partial",
+                "context": "A delayed report from the Commerce Department showed factory orders rose 0.2%, short of the 0.5% estimate, after a downwardly revised 1.3% increase in August as tariffs hemmed in manufacturers. Dow component Salesforce climbed after the company raised its fiscal 2026 revenue and adjusted profit forecasts, anticipating growth in its artificial intelligence agent platform due to strong enterprise demand. However, Amazon's performance weighed on the overall indexes.",
+                "the_company_mainly_concerned_with_the_news_article": "Amazon",
+                "link": "https://www.devdiscourse.com/article/business/1534207-us-stocks-indexes-end-near-flat-supported-by-fed-hopes-but-dragged-by-amazon",
                 "source": "DEVDISCOURSE",
-                "summary": "US stock indexes ended near flat on December 4, 2025. The performance was supported by hopes related to the Federal Reserve but dragged down by Amazon. Salesforce, a Dow component, saw an increase due to its optimistic forecasts for fiscal 2026 revenue and adjusted profit, driven by growth in its artificial intelligence agent platform.",
-                "published_at": "2025-12-04T21:03:07Z"
-            },
-            {
-                "title": "What was the impact of tariffs on factory orders?",
-                "question": "How did tariffs affect factory orders in August 2025?",
-                "answer": "Tariffs hemmed in manufacturers, causing a downwardly revised 1.3% increase in factory orders in August 2025.",
-                "score": "2",
-                "context": "A delayed report from the Commerce Department showed factory orders rose 0.2%, short of the 0.5% estimate, after a downwardly revised 1.3% increase in August as tariffs hemmed in manufacturers.",
-                "the_company_mainly_concerned_with_the_news_article": "",
-                "link": "",
-                "source": "DEVDISCOURSE",
-                "summary": "Tariffs had a negative impact on factory orders, causing a downward revision in the growth rate from an initial 0.5% estimate to 1.3% increase in August 2025.",
-                "published_at": "2025-12-04T21:03:07Z"
-            },
-            {
-                "title": "What led to the growth of Salesforce?",
-                "question": "Why did Salesforce see an increase on December 4, 2025?",
-                "answer": "Salesforce saw an increase due to its optimistic forecasts for fiscal 2026 revenue and adjusted profit, driven by growth in its artificial intelligence agent platform due to strong enterprise demand.",
-                "score": "3",
-                "context": "Dow component Salesforce climbed after the company raised its fiscal 2026 revenue and adjusted profit forecasts, anticipating growth in its artificial intelligence agent platform due to strong enterprise demand.",
-                "the_company_mainly_concerned_with_the_news_article": "Salesforce",
-                "link": "",
-                "source": "DEVDISCOURSE",
-                "summary": "Salesforce saw an increase on December 4, 2025 due to its optimistic forecasts for fiscal 2026 revenue and adjusted profit, driven by growth in its artificial intelligence agent platform due to strong enterprise demand.",
+                "summary": "A delayed factory orders report and Amazon's performance affected the US stock market on December 4, 2025.",
                 "published_at": "2025-12-04T21:03:07Z"
             }
         ]
@@ -369,24 +297,12 @@
                 "title": "What report reveals the current state of fraud and financial crime in the United States?",
                 "question": "What report is being referred to?",
                 "answer": "'2025 State of Fraud and Financial Crime in the United States' report",
-                "score": "100%",
-                "context": "The financial industry is navigating an increasingly sophisticated and dynamic threat landscape. The primary trend observed is...",
+                "score": "",
+                "context": "The report was commissioned by Block and provides insights into the current threat landscape in the financial industry.",
                 "the_company_mainly_concerned_with_the_news_article": "Block",
                 "link": "https://pymnts.com/",
                 "source": "PYMNTS.COM",
-                "summary": "The article discusses a report commissioned by Block that highlights the current state of fraud and financial crime in the United States, revealing an increasingly complex threat landscape.",
-                "published_at": "2025-12-04T09:00:53Z"
-            },
-            {
-                "title": "What is the primary trend observed in the financial industry according to the report?",
-                "question": "What is the main trend observed in the financial industry?",
-                "answer": "The financial industry is navigating an increasingly sophisticated and dynamic threat landscape.",
-                "score": "100%",
-                "context": "The financial industry is navigating an increasingly sophisticated and dynamic threat landscape. The primary trend observed is...",
-                "the_company_mainly_concerned_with_the_news_article": "Block",
-                "link": "https://pymnts.com/",
-                "source": "PYMNTS.COM",
-                "summary": "The article discusses a report commissioned by Block that highlights the current state of fraud and financial crime in the United States, revealing an increasingly complex threat landscape.",
+                "summary": "The article discusses a report that highlights the increasing sophistication and dynamic nature of fraud and financial crime in the United States, as well as the challenges faced by the financial industry.",
                 "published_at": "2025-12-04T09:00:53Z"
             }
         ]
@@ -394,28 +310,28 @@
     {
         "flashcards": [
             {
-                "title": "What is the projected U.S. data center power demand by 2035?",
-                "question": "What is the projected U.S. data center power demand by 2035?",
+                "title": "U.S. Data Center Power Demand Projections",
+                "question": "What is the projected power demand for U.S. data centers by 2035, according to BloombergNEF?",
                 "answer": "106 GW",
-                "score": "4",
-                "context": "BloombergNEF said Monday in one of the more aggressive load growth estimates to date.",
+                "score": "Aggressive load growth estimate",
+                "context": "BloombergNEF predicts that the power demand for U.S. data centers could reach 106 GW by 2035, making it one of the more aggressive projections to date.",
                 "the_company_mainly_concerned_with_the_news_article": "BloombergNEF",
                 "link": "https://oilprice.com/Energy/Energy-General/U-S-Data-Center-Demand-Could-Hit-106-GW-by-2035.html",
                 "source": "OILPRICE",
-                "summary": "The U.S. data center power demand could reach 106 GW in 2035, according to BloombergNEF.",
-                "published_at": "2025-12-04 17:00:00"
+                "summary": "A report by BloombergNEF predicts that U.S. data center power demand could reach 106 GW in 2035, but some analysts and executives warn of an artificial intelligence bubble or speculative data center proposals causing excessive load growth projections.",
+                "published_at": "2025-12-04"
             },
             {
-                "title": "What is the concern about excessive load growth projections for data centers?",
-                "question": "What is the concern about excessive load growth projections for data centers?",
-                "answer": "Some energy industry analysts and executives warn that an artificial intelligence bubble or speculative data center proposals could be fueling excessive load growth projections.",
-                "score": "3",
-                "context": "A report from Grid Strategies released last month said utility forecasts of 90 GW additional data center load by 2030 were likely overstated; market analysis indicates load growth in that time frame is...",
-                "the_company_mainly_concerned_with_the_news_article": "Not specified",
+                "title": "Data Center Load Growth Concerns",
+                "question": "What concerns have been raised about the projected data center load growth by 2030?",
+                "answer": "Some analysts and executives believe that utility forecasts of 90 GW additional data center load by 2030 are overstated.",
+                "score": "Market analysis indicates",
+                "context": "A report from Grid Strategies last month suggested that the projected 90 GW additional data center load by 2030 may be overstated, according to market analysis.",
+                "the_company_mainly_concerned_with_the_news_article": "Grid Strategies",
                 "link": "https://oilprice.com/Energy/Energy-General/U-S-Data-Center-Demand-Could-Hit-106-GW-by-2035.html",
                 "source": "OILPRICE",
-                "summary": "Some energy industry analysts and executives are concerned that excessive load growth projections for data centers might be due to an artificial intelligence bubble or speculative data center proposals.",
-                "published_at": "2025-12-04 17:00:00"
+                "summary": "Some analysts and executives have expressed concerns that the projected data center load growth by 2030 may be overstated, according to market analysis.",
+                "published_at": "2025-12-04"
             }
         ]
     }
